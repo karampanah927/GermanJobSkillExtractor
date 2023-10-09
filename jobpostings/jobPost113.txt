@@ -1,0 +1,47 @@
+Text 2
+
+<<*>>Internship: Software Application Developer – Cryptographic validation system<<*>>
+bei NXP Semiconductors Austria GmbH & Co KG Standort Gratkorn
+Gratkorn vor 3 Tagen
+Job empfehlen
+Jetzt bewerben
+<<*>>Internship: Software Application Developer - Cryptographic validation system<<*>>
+Gratkorn
+Apply
+In this student position, you will be part of the Competence Center Cryptography & Security which is in charge of supporting all NXP business lines on cybersecurity for the entire NXP product portfolio. You will work in a distributed team to analyze, extract and implement a set of requirements in view of automatization of a test framework for the validation of cryptographic implementations.
+Your responsibilities:
+For an existing web application in the context of a <<*>>cryptographic validation system implemented in Java<<*>> we are looking for a student to:
+Develop new features based on defined requirements
+Defining and implementing a validation concept of the system
+Test development to run NXP Crypto Libraries against the <<*>>Cryptographic Validation System<<*>>
+Your profile:
+Ongoing studies in <<*>>SW development, information science, information and computer engineering, mathematics, informatics<<*>> or similar
+Software development skills with first experience in <<*>>C and C#, Python<<*>>
+Independent working style, willingness to learn, listen and adapt
+Problem solving skills
+Good English level spoken and written
+Willing to work in an international multi-site team
+Good communication skills
+Self-organized and good level of autonomy
+Basic understanding of <<*>>cryptographic algorithms<<*>> would be an asset
+Availability approximately 16-20h/week (flexible)
+We Offer:
+Flexible working time
+On-site free beverages and fresh fruit
+Social events (student get-togethers, networking opportunities, etc)
+Opportunity to grow into a permanent employee
+and many other benefits!
+The minimum salary for this position is EUR 16- gross/hour.
+We offer internships with a variety of lengths.
+We are proud to have received the Leading Employer Award for the 5th time in a row 2023, which is presented exclusively only to the top 1% of employers in Austria. Since 2022 we have been officially recognized as family-friendly employer. In 2023 NXP Austria received the EqualitA award - the seal of quality for advancement of women in the workplace.
+Apply
+PARTTIME
+R-10048249
+About Us
+Our people are the heart and soul of our business. Their talent enables NXP to continue providing Secure Connections for a Smarter World. Helping every employee to be the best that they can be is a core part of our philosophy. This means creating the right environment for individuals to flourish, with ample opportunities for career development.
+Jetzt bewerben
+Kontakt
+NXP Semiconductors Austria GmbH & Co KG Standort Gratkorn
+Mikronweg 1
+8101 Gratkorn
+Arbeitgeberprofil ansehen

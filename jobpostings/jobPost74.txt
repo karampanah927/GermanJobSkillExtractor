@@ -1,0 +1,40 @@
+<<*>>Field Application Engineer Embedded Linux – Mobile Machinery<<*>>
+bei TTTech Computertechnik AG
+Wien vor 3 Tagen
+Job empfehlen
+Jetzt bewerben
+Human progress is powered by smart machines - smart machines are powered by human visions
+As machines are becoming smarter - performance, safety and reliability have never been more important. We provide these attributes for millions of mobile machines worldwide, right here in the heart of Europe. If you come work with TTControl in Vienna or Brixen, your visions will be on board, too.
+<<*>>Field Application Engineer Embedded Linux - Mobile Machinery<<*>>
+Do you believe in a more automated and robotized future? Do you enjoy traveling and working with international teams? As a <<*>>Field Application Engineer<<*>>, you act as the main technical interface between our customers and the core development teams. You play a key role for customer success by supporting and training our customers during application development and integration of our Linux based products for mobile machinery. As a <<*>>software developer<<*>> you are actively developing our embedded Linux distributions.
+Your Tasks
+Act as the key technical interface to our international customers assisting them during the development of applications for mobile machinery
+Keep close relationship with project manager, development teams and customers
+<<*>>Develop and maintain embedded Linux distributions for ARM-based hardware platforms<<*>>
+<<*>>Design, maintain, and continuously update system components such as boot loader, Linux kernel, device drivers, system libraries and utilities<<*>>
+Share knowledge and experience with our young and dynamic team
+Your Profile
+<<*>>Technical degree in Computer Science (Technical University; FH Informatics, Electronics or similar)<<*>>
+<<*>>Experience with embedded Linux platforms<<*>>
+<<*>>Good C programming skills<<*>>
+<<*>>Experience with tools like GNU toolchain, Yocto Project, Git, Jenkins and bug-tracking tools like Jira<<*>>
+Motivated and committed team player with curiosity for innovation and an independent and precise style of working
+Comprehensive communication skills
+Great passion for interacting with customers and working in international teams
+Willingness to travel
+<<*>>Very good command of English, command of German is a plus<<*>>
+Our Offer
+Exciting work environment - be part of future high-tech innovations and cutting-edge technologies
+We are a team - flat hierarchies, open door policy, communication at eye level and hands-on mentality
+Technical expertise - work among fellow experts and minds that will inspire you
+Diversity & equal opportunities - our team consists of people from over 60 countries, speaking 100 different languages. Diversity and inclusion are in our DNA
+As of today, TTTech Group employs more than 2,300 people in 14 locations worldwide. Join our pioneering team and become part of our fascinating projects. You will find it #mindgrowing
+The following information only applies for an employment in Austria: We provide an attractive and performance-based salary, which is based on your qualifications and professional experience. This position is subject to the Collective Agreement for Employees in the Metal Trade ("Kollektivvertrag für Angestellte Metallgewerbe") and we offer a minimum salary of EUR 44,000 gross per year. Actual compensation can be well above this standard.
+TTControl GmbH, Schoenbrunner Strasse 7, 1040 Vienna, Austria, Phone: +43 1 585 34 34 - 0
+www.ttcontrol.com
+Jetzt bewerben
+Kontakt
+TTTech Computertechnik AG
+Schönbrunner Strasse 7
+1040 Wien
+Arbeitgeberprofil ansehen

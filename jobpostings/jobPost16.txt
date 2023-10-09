@@ -1,0 +1,57 @@
+<<*>>Junior DevOps Engineer<<*>> (m/w/d)*
+bei Gebrüder Weiss GmbH
+Kennelbach vor 3 Tagen
+Job empfehlen
+Jetzt bewerben
+Junior DevOps Engineer (m/w/d)*
+Am Standort Kennelbach / Maria Lanzendorf oder remote!
+Gebrüder Weiss liefert Waren in die ganze Welt - seit 550 Jahren. Wie wir so lange erfolgreich sein konnten? Mit Mitarbeiterinnen und Mitarbeitern, die es lieben, Dinge in Bewegung zu bringen. Wenn Sie Produkte an Land, zu Wasser oder in der Luft bewegen wollen, und das auf Wunsch der Kunden sogar CO₂-neutral, dann werden Sie Teil des weltumspannenden Netzwerks von Gebrüder Weiss.
+
+Lust uns kennenzulernen?
+Know-how, das ich mitbringe
+Du bringst ein abgeschlossenes (Fach-)Hochschulstudium in (Wirtschafts-)<<*>>Informatik<<*>>, vergleichbarer Fachrichtung oder eine Ausbildung im IT-Bereich mit
+Du hast erste Erfahrung in der <<*>>Konzeption, Implementierung und Verwaltung von Cloud-Infrastrukturen,<<*>> idealerweise mit Schwerpunkt auf <<*>>MS Azure<<*>>
+Starkes Interesse an <<*>>Cloud-Technologien<<*>>, <<*>>Infrastructure as Code (IaC) <<*>>und <<*>>CI/CD-Pipelines<<*>>
+Du kennst <<*>>Tools für die Automatisierung von Build-, Deployment- und Konfigurationsprozessen<<*>> und möchtest dich darin weiterbilden
+<<*>>Azure Zertifikate<<*>> sind ein Plus
+<<*>>Gute Deutsch- und sehr gute Englischkenntnisse in Wort und Schrift<<*>> sind für dich selbstverständlich
+Eigenverantwortliche, strukturierte und zielorientierte Arbeitsweise
+Du hast eine ausgeprägte Teamfähigkeit, Lösungs- und Kundenorientierung
+Aufgaben, die mich begeistern
+Du übernimmst <<*>>DevOps Engineer<<*>> Aufgaben und <<*>>etablierst mit uns die Vorgehensweisen und Betriebsführungsmodelle der Zukunft<<*>>
+Du lernst wie du Best Practices identifizierst und implementierst, um die Leistung, Skalierbarkeit und Zuverlässigkeit unserer Cloud-Infrastruktur zu verbessen
+Du <<*>>arbeitest mit agilen Entwicklungsmethoden<<*>>, wo du für <<*>>die Entwicklung von Continuous Integration / Continuous Deployment (CI/CD)-Pipelines zuständig <<*>>bist
+Du arbeitest in einem Team mit, welches einen reibungslosen Betrieb sicherstellt und sorgst somit für eine hohe Verfügbarkeit unserer Systeme
+Du entwickelst in einem interdisziplinären Team <<*>>Prozesse und Architekturen<<*>> und stellst diese für unsere Kund*innen bereit
+Im Sinne eines<<*>> DevOps-Ansatzes<<*>> kümmerst du dich zusammen mit dem Team um die Architektur, Entwicklung und den Betrieb der eigenen Anwendungen
+Du hilfst dabei, die Einhaltung von Sicherheitsrichtlinien und Best Practices für die <<*>>Cloud-Infrastruktur<<*>> sicherzustellen
+Angebote, die mich überzeugen
+Du willst in deiner Karriere richtig Strecke machen oder dich lieber regional verwirklichen? Berufswege sind so individuell wie unsere Verkehrsrouten. Das respektieren wir und besprechen deine Arbeitszeiten, die Bezahlung und alles, was noch dazu gehört ganz persönlich mit dir. Der Kollektivvertrag ist dabei nur der Ausgangspunkt, die Ziele definieren wir gemeinsam.
+Parkplatz
+Rabatte
+Netzwerk
+Events
+Öffis-Anbindung
+Homeoffice
+Gesundheit
+Flexible Arbeitszeit
+Aus- und Weiterbildung
+Betriebliche Altersvorsorge
+JoBike
+⁎ Wir leben die Vielfalt und fördern die Zusammenarbeit von verschiedenen Geschlechtern, Jung und Alt, unterschiedlichen ethnischen/religiösen Gruppierungen sowie Menschen mit besonderen Bedürfnissen.
+Jetzt bewerben
+Der direkte Weg zu uns:
+Zivkovic Zorica
+
++43 5574 696 1502
+Anfahrt
+Jetzt bewerben
+Kontakt
+Gebrüder Weiss GmbH
+Friedrich-Schindler-Straße 12
+6921 Kennelbach
+Arbeitgeberprofil ansehen
+Ähnliche Jobs
+<<*>>Test Automation Engineer<<*>> (d/w/m)
+bei EBCONT in Hard
+

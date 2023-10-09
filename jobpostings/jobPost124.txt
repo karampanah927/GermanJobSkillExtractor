@@ -1,0 +1,59 @@
+Text 2
+<<*>>System Engineer Linux Platform<<*>>
+bei RUBICON IT GmbH
+Wien vor 3 Tagen
+Job empfehlen
+Jetzt bewerben
+<<*>>System Engineer Linux Platform<<*>>
+Als Enthusiast für <<*>>Linux<<*>> begeisterst du dich für <<*>>Open Source Software<<*>> und <<*>>Webtechnologien<<*>>. Mit deinem soliden <<*>>Know-how<<*>> kannst du schnell und treffsicherer Analysen durchführen. Dein Blick für Details ermöglicht es dir nachhaltige Lösungen umzusetzen.
+Deine Aufgaben
+Du bist eigenständig für alles rund um den Betrieb unserer <<*>>Linux Applikationen<<*>> verantwortlich, dazu gehören
+die Durchführung von Updates und Release-Wechseln
+die Automatisierung der <<*>>Konfigurations- und Installationsarbeiten<<*>>
+die Erarbeitung von <<*>>Monitoring Konzepten<<*>> (in Zusammenarbeit mit den verantwortlichen Kollegen)
+die Erstellung und Pflege von Dokumentationen sowie
+<<*>>Troubleshooting<<*>> und <<*>>Support<<*>>
+Darüber hinaus arbeitest du an Projekten zur Evaluierung, Einbindung und zum <<*>>Deployment<<*>> von Neuinstallationen mit.
+Dein Profil
+Für diese Position suchen wir jemanden mit tiefgehenden Praxiskenntnissen in <<*>>Linux<<*>>. Wie du diese Expertise gewonnen hast, ob im Beruf oder durch Hobbyprojekte ist weniger wichtig, solange du dein Handwerk verstehst!
+Jedenfalls solltest du
+<<*>>Erfahrung im Setup, der Überwachung und Administration von Linux Systemen (Ubuntu, Red Hat)<<*>>
+Dich mit <<*>>Webservertechnologien (Apache)<<*>> und <<*>>Datenbanksystemen (MariaDB/MySQL/PostgreSQL)<<*>> auskennen
+<<*>>Interesse an Containertechnologien (Docker, Swarm, Kubernetes)<<*>>
+über sehr gute Deutschkenntnisse (min. B2-Niveau) verfügen.
+Es ist von Vorteil, wenn du außerdem
+<<*>>Erfahrung mit der Konfiguration, Überwachung sowie Optimierung von Apache 2.4 HTTP-Servern und der Konfiguration von Java Applikationen<<*>>
+<<*>>Linux, ITIL oder andere passende Zertifizierungen<<*>>
+bereits in einer ähnlichen Position gearbeitet hast.
+Darüber hinaus bringst du ein hohes Qualitäts- und Verantwortungsbewusstsein mit und arbeitest gerne mit Kolleg:innen im Team zusammen.
+Wir bieten dir
+Flexible Arbeitszeiten (bevorzugt Vollzeit, aber auch Teilzeit ab 20h/Woche möglich) und die Möglichkeit, bis zu 50% im Home-Office zu arbeiten.
+Einen Arbeitsplatz mit modernster und individualisierbarer Ausstattung.
+Zusammenarbeit auf fachlich sehr hohem Niveau sowie viele Möglichkeiten zur persönlichen und fachlichen Weiterentwicklung.
+Ein wertschätzendes Arbeitsklima, das unkomplizierte Kommunikation über alle Hierarchieebenen ermöglicht.
+Zahlreiche Sozialleistungen und viele nette Kolleg:innen.
+Ein attraktives Gehalt, das wir individuell im Gespräch vereinbaren. Der Kollektivvertrag sieht für diese Position ein Mindestgehalt von EUR 48 370 brutto/Jahr (bei Vollzeitbeschäftigung) vor. Eine marktkonforme Überzahlung je nach Qualifikation und Erfahrung ist für uns selbstverständlich.
+Wir sind ein 2001 gegründetes, international tätiges Wiener IT-Unternehmen mit über 250 Mitarbeiter:innen. Unsere Stärke liegt in der Digitalisierung von Geschäftsprozessen und der Entwicklung von wichtigen, unternehmenskritischen Anwendungen. Unsere Kunden sind insbesondere Behörden und internationale Großunternehmen mit mehreren hundert oder mehreren tausend Anwender:innen.
+Jetzt bewerben
+RUBICON IT GmbH | Gonzagagasse 16, 1010 Wien | karriere-bei.rubicon.eu
+Jetzt bewerben
+Kontakt
+RUBICON IT GmbH
+Gonzagagasse 16
+1010 Wien
+Arbeitgeberprofil ansehen
+Ähnliche Jobs
+<<*>>Field Application Engineer Embedded Linux<<*>> – Mobile Machinery
+bei TTTech Computertechnik AG in Wien
+<<*>>Linux System Engineer<<*>>
+bei ANEXIA Internetdienstleistungs GmbH in Wien
+<<*>>Chief Architect<<*>> – Time Sensitive Networking (TSN)
+bei TTTech Computertechnik AG in Wien
+<<*>>Linux System Engineer<<*>> - <<*>>Systemadministrator Linux<<*>>
+bei Ratbacher GmbH in Wien
+<<*>>Linux System Engineer<<*>>
+bei Bundesrechenzentrum GmbH in Wien
+<<*>>Linux System Engineer<<*>>
+bei EDITEL Austria GmbH in 1040 Wien
+<<*>>System Engineer für Linux<<*>>
+bei x-tention Informationstechnologie GmbH in Wels

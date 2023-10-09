@@ -1,0 +1,59 @@
+Senior Software Engineer - ad:s
+bei Sportradar Austria
+Vienna vor 3 Tagen
+Job empfehlen
+Jetzt bewerben
+Senior Software Engineer - ad:s
+Vienna
+We're the world's leading sports technology company, at the intersection between sports, media, and betting. More than 1,700 sports federations, media outlets, betting operators, and consumer platforms across 120 countries rely on our know-how and technology to boost their business.
+Sport provides people with a common connection - it can bring together and unite people from all walks of life and all corners of the globe to share sporting moments. We are NASDAQ-listed and are one of the fastest-growing sport-tech companies on the planet. Our division, "Sportradar ad:s " provides data-driven marketing and sponsorship services to the iGaming industry, designed to help deliver significant efficiency improvements for marketing investments. The ad:s team develops and provides purpose-built tools and services to meet the individual marketing needs of sportsbooks and media publishers worldwide.
+THE ROLE:
+<<*>>As a Senior Software Engineer - ad:s at Sportradar<<*>>, you will be tackling all aspects of the software stack, from API design to front-end UI. Become part of a cross-functional team and take on the responsibility of delivering functional excellence and value to the business.
+From a technical standpoint, our product consists of multiple microservices that are entirely hosted in a cloud environment and configured with infrastructure-as-code (IaC). Among many AWS services, we use Lambda Functions to run our code, RDS/DocumentDB to store our data and SNS/SQS for messaging.
+As an engineering team, we continuously strive to find the most suitable solution for any given challenge. We aim for an appropriate level of abstraction and refactor sensibly, which allows us to maintain an extendable code base. Testing practices help us shape our change and ensure the system behaves as expected.
+If you're a software engineer who is passionate about working with cutting-edge technologies and building scalable, resilient systems, developing our product offers a great opportunity to do just that. We firmly believe that people matter and are committed to fostering a collaborative and innovative work environment, where our engineers can grow and learn from each other.
+If you think you would be a good fit for our team, we would love to hear from you.
+KEY RESPONSIBILITIES:
+<<*>>Contribute and grow as part of a self-organized, agile software development team<<*>>
+<<*>>Build our advertising technologies - from understanding the requirements to creating the fully functional UI<<*>>
+<<*>>Design and craft highly scalable, fault-tolerant systems, while keeping your focus on quality, observability and security<<*>>
+<<*>>Support and develop team members by providing feedback and guidance<<*>>
+Team up to extend and maintain together a safe and fun working environment
+YOUR PROFILE:
+Required:
+<<*>>2+ years of previous professional experience in agile/lean development<<*>>
+<<*>>2+ years of previous commercial experience in Web Development<<*>>
+<<*>>Deep understanding of OOP fundamentals and practical appliances using any language<<*>>
+<<*>>Passion for clean code and testing<<*>>
+Strong consumer focus, ownership and communication
+Preferred:
+<<*>>TypeScript knowledge, especially using Node.js and one Frontend Framework (e.g. Vue.js)<<*>>
+<<*>>Experience with cloud services<<*>>
+<<*>>Experience utilizing databases, SQL or NoSQL<<*>>
+Keen Interest in new technologies and learning
+OUR OFFER:
+The opportunity to work and develop within an inspiring and fast-growing company
+The possibility to help shape the future of Sportradar. All developers are directly contributing to products used by our clients in the global sports business.
+Involvement in shaping your own workday and career through a high degree of freedom to choose technology and your personal development path.
+A collaborative environment with colleagues from all over the world (Engineering offices in Europe, Asia and US).
+A company culture that promotes social aspects, sports, physical exercise and fun.
+Innovative and cross-team challenges like ShipIt, office sports tournaments in Darts and Table Tennis and unique beer brewing competitions.
+Competitive salary and benefits (e.g. retirement pension and insurance plan)
+Possibility to work from a home office when needed.
+The minimum monthly salary for this position is according to the Collective Bargaining Agreement, overpayment will be considered depending on qualifications and working experience.
+We will relocate our office near the Nordbahnviertel in the 2nd district of Vienna by the beginning of next year Q1/2024. Due to the top inner-city location, we are excellently connected to the public transport network and the cycle path network and are therefore very easy to reach.
+In addition, we offer our employees a state-of-the-art infrastructure near the center of the most livable city in the world.
+Buckle up, hold on tight and get ready for an incredible adrenaline-rush throughout this exciting ride with us: #maketheteam and shape your future as well as ours!
+Sportradar is an Equal Opportunity Employer. We are committed to encourage diversity within our teams. All qualified applicants will receive consideration without regard to among other things, your background, status, or personal preferences
+Apply now
+Jetzt bewerben
+Kontakt
+Sportradar Austria
+Hosnedlgasse 25
+1220 Wien
+Arbeitgeberprofil ansehen
+Ähnliche Jobs
+<<*>>Senior Fullstack Engineer (Frontend focus)<<*>>
+bei Sportradar Austria in Wien
+
+

@@ -1,0 +1,32 @@
+Require: Fine-tuned Model JobGBERT
+Require: Embedding function E
+Require: Cosine Similarity Threshold τ ∈ [0, 1]
+P ← Read job postings from ".sents" files
+S ← ESCO Skill embeddings
+L ← Extracted skill spans
+CBM_Metric ← {}
+Combined_Metric ← {}
+
+for p ∈ P do
+    Extract skill spans from p using JobGBERT
+    for each skill span do
+        Calculate its embedding using E
+        Compare with S using cosine similarity
+        if similarity > τ then
+            Normalize the skill span to its closest match in S
+        end if
+    end for
+    L ← Add normalized skill spans to L
+end for
+
+for each skill_span1 in L do
+    for each skill_span2 in L do
+        CBM_Metric[skill_span1, skill_span2] = calculateCBM(skill_span1, skill_span2)
+    end for
+end for
+
+for each pair (e1, e2) in CBM_Metric.keys() do
+    Combined_Metric[e1, e2] = CBM_Metric[e1, e2] + CosSim(e1, e2)
+end for
+
+Save L and Combined_Metric in a file

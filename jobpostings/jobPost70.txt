@@ -1,0 +1,72 @@
+Text 2 Modified:
+
+<<*>>Software Architect (all genders)<<*>>
+bei Erste Bank
+Wien vor 3 Tagen
+Job empfehlen
+Jetzt bewerben
+We are part of Erste Group - the largest banking group in Central and Eastern Europe with more than 2,500 branches and over 45,000 employees. Our more than 2,000 IT experts and enthusiasts are the bank's Digital Muscle.
+<<*>>Software Architect (all genders)<<*>>
+Location: Vienna
+Working-Hours: Full-time
+Occupation Area: IT
+Company: Erste Digital
+With top notch technology, we drive the realization offers the Group's vision: To provide human banking in digital times, and to build Financial Health for over 16 million customers in the CEE region.We aim to attract and develop the best talent and aspire to be an IT employer beyond compare.We are Erste Digital. We are #digitaltotheheart
+
+Join our team of architects to work on the most challenging and exciting projects. As <<*>>senior architect<<*>> you'll create interesting architectural solutions in one of the leading financial institutions with high load, high scale and multiple projects. You'll act as an internal consultant and work independently and directly with key stakeholders and projects in Erste Digital, Erste Holding and other subsidiaries. Needless to say, you'll be surrounded by smart colleagues, interesting tasks and be well compensated.
+You will be responsible for:
+<<*>>Producing architecture concepts that meet strategic, business, financial and technical objectives<<*>>
+<<*>>Analyzing and consolidating long-term target architecture visions and designs across functional areas in distributed and concurrent systems<<*>>
+<<*>>Creating end to end high level designs, balancing technical tradeoffs, connecting multiple systems, all while ensuring consistency and quality of your solutions<<*>>
+<<*>>Maintaining proper technical documentation in a common architecture repository<<*>>
+<<*>>Developing internal java libraries and utilities, widely used across the company<<*>>
+Presenting technical concepts to relevant stakeholders
+<<*>>Building proof-of-concepts for unusual scenarios and requirements<<*>>
+<<*>>Active participation in knowledge building, sharing and creating communities of best practice<<*>>
+Your background should include experience with:
+<<*>>Spring Boot framework<<*>>
+<<*>>Good command of Java language and surrounding eco-system<<*>>
+<<*>>Concepts of good code and architecture quality (e.g., SOLID principles)<<*>>
+<<*>>Design patterns (e.g., IoC), architectural patterns (e.g., microservices) and integration patterns<<*>>
+<<*>>Rest frameworks (e.g., Jersey), Rest APIs<<*>>
+<<*>>Basic Apache Kafka, including Streams<<*>>
+<<*>>Programming for Cloud containers, CI/CD<<*>>
+<<*>>Git and git-flow<<*>>
+<<*>>Agile development process<<*>>
+Some nice to have experience would include <<*>>relational and non-relational databases, containerization (OpenShift, Docker, etc.), Hibernate, Elastic APM, Elastic Search Index optimization<<*>>
+Apart from technical skills, you should also have <<*>>good communication and presentation skills (in English, German would be an advantage), be independent and self-organized, strive for continuous learning and improvement<<*>>
+Our Offer
+The opportunity to work in a progressive banking IT area and to develop your own areas of responsibility and to take on responsibility yourself
+Care, collegial working atmosphere characterized by mutual appreciation, team spirit and fun at work
+Possibility to benefit and learn from our international, talented and passionate community at Erste
+Great learning curve through ownership and creative freedom
+Interest groups and clubs: Take part in discussions and get involved in projects. Numerous interest groups invite you to engage with a topic
+Good food: Healthy nutrition and good food are important for our quality of life. With seven restaurants and cafeterias, there's something to suit every taste on the Erste Campus
+Health Centre - The Erste Campus operates a fully equipped health center that offers all employees a high standard of medical services during working hours.
+New way of work: With our flexible working hours model we want to make your life less complicated. Combing the best of both worlds, remote and company time.
+Employee benefits - Benefit from special conditions for financial services and insurances, supermarkets, clothing stores and many more.
+Employee Referral Program - Become a talent scout for career opportunities in IT. We are rewarding every successful referral for Erste Digital
+Language courses for German & English - Learning a new language unites. We support you with appropriate language courses where you participate together with your colleagues.
+Visa Sponsoring - We support our employees with all the formalities associated with a relocation
+Work-Life-Balance - Home office, paternity leave, sabbatical, sports courses -- we support you in balancing work, family and leisure time
+The minimum wage for this full-time position in accordance with the collective agreement with complete fulfillment of the functional profile is EUR 56.448,-- gross per year. But this is just a formality - we would be happy to talk about your actual salary in person!
+Apply online
+Jetzt bewerben
+Kontakt
+Erste Bank
+Am Belvedere 1
+1100 Wien
+Arbeitgeberprofil ansehen
+Ähnliche Jobs
+<<*>>Senior Data Architect<<*>>
+bei Capgemini in Wien
+<<*>>Head of Software Engineering/Lead Architect<<*>>
+bei Computer Futures in Wien
+<<*>>Senior Security Architect / Secure Software Developer<<*>>
+bei PwC Österreich in Linz
+<<*>>Software Architect - JavaEE, Primefaces, Postgres, Kafka<<*>>
+bei Stadt Wien – Wiener Wohnen Kundenservice GmbH in Wien
+<<*>>Software Architect<<*>>
+bei Porsche Informatik GmbH in Salzburg (Stadt)
+<<*>>Software Architect<<*>>
+bei Software Daten Service Gesellschaft m.b.H. in Wien

@@ -1,0 +1,47 @@
+<<*>>System Architekt*in im Bereich eGovernment<<*>>
+bei Wien Digital
+Wien vor 3 Tagen
+Job empfehlen
+Jetzt bewerben
+Die Magistratsabteilung 01 sucht eine/einen
+<<*>>System Architekt*in im Bereich eGovernment<<*>>
+Wir haben das klare Ziel: unser Wien tagtäglich zu einer lebens- und liebenswerten Stadt zu machen, in der sich jede*r Bewohner*in in gleichem Maße und bei gleicher Qualität auf unsere Leistungen und Services verlassen kann. Dazu brauchen wir Sie!
+
+Wir, die Magistratsabteilung 01 - Wien Digital, sind eine innovative, <<*>>serviceorientierte IT-Abteilung<<*>>. Mit unseren rund 1.100 Mitarbeiter*innen schaffen wir für den Magistrat der Stadt Wien und den Wiener Gesundheitsverbund innovative Services im Bereich der <<*>>Informations- und Kommunikationstechnologie (IKT)<<*>>.
+<<*>>Informations<<*>>
+Ihr Aufgabengebiet
+Das Serviceteam eGovernment trägt die <<*>>Gesamtverantwortung für die verschiedenartigen und komplexen Applikationen und Services im Themenbereich eGovernment<<*>> (z.B. „Mein Wien") und fungiert für diese als Single Point of Contact. Als <<*>>System Architekt*in<<*>> tragen Sie im Team eGovernment aktiv dazu bei, <<*>>innovative und optimierte IKT-Lösungen<<*>> unseren Kund*innen aus dem Magistratsbereich zur Verfügung zu stellen. Der Fokus Ihrer Position liegt sowohl auf dem <<*>>Entwurf und der Integration von neuen Lösungen<<*>>, als auch auf der <<*>>Betreuung und Weiterentwicklung von bestehenden Services entsprechend aktueller Standards und technologischer Entwicklungen<<*>>.
+Sie übernehmen <<*>>komplexe Entwicklungstätigkeiten und leiten Entwicklungsteams<<*>> (Ko- ordinierung, Betreuung und Steuerung von externe Partner*innen) bei der <<*>>technischen Umsetzung<<*>>.
+Sie verantworten das <<*>>technische Design und die technische Konzeption von komplexen IT-Lösungen<<*>>, <<*>>Machbarkeitsanalysen von Lösungsvarianten<<*>> sowie die Erstellung von Dokumentation und Entscheidungsgrundlagen für die Umsetzung, Implementierung und der Produktivsetzung.
+Sie <<*>>beraten Kund*innen für die Umsetzung neuer komplexer IT-Anforderungen<<*>> (z.B. Lösungsansätze, Rentabilität, strategische Ausrichtung)
+Sie haben die <<*>>technische Verantwortung für komplexe Applikationen im Bereich eGovernment<<*>>, welche sowohl durch interne Kund*innen als auch durch Bürger*innen unserer Stadt genutzt werden.
+Sie <<*>>koordinieren Entwicklungsteams<<*>>, insbesondere begleiten Sie externe Entwickler*innen.
+Ihr Profil
+Sie bringen <<*>>mehrjährige Erfahrung im Architekturdesign und in der Entwicklung komplexer IT-Systeme<<*>> (Zertifizierung von Vorteil) mit.
+Sie verfügen über gute <<*>>Kenntnisse über das Zusammenwirken unterschiedlicher IT-Systeme<<*>>, um daraus durch Lösungsvorschläge neue Services bzw. IT-Systeme zu konzipieren, zu planen, zu implementieren und zu integrieren.
+Sie verfügen über gute <<*>>fundierte Kenntnisse gängiger Technologien (Programmiersprachen, Betriebssysteme/Plattformen, Datenbanken, Source-Code-Managementsysteme, Netzwerke)<<*>> z.B. C#, JavaScript, MS Windows, .Net Core, MS Visual Studio, PostgreSQL, Oracle.
+Sie bringen <<*>>praktische Erfahrung mit agiler Software-Entwicklung<<*>>, sowie mit <<*>>Source-Code-Managementsystemen (z.B. GIT)<<*>>, <<*>>Entwicklungs- und Laufzeitumgebungen (z.B. Visual Studio)<<*>> und im Bereich <<*>>DevOps (z.B. Ansible, Docker, Jenkins)<<*>>.
+Sie haben eine <<*>>starke Teamfähigkeit<<*>> und können gut mit anderen zusammenarbeiten, um gemeinsam Ziele zu erreichen.
+Sie haben eine <<*>>ausgeprägte Problemlösungskompetenz<<*>> und finden schnell Lösungen für komplexe Herausforderungen.
+Bitte beachten Sie die erforderlichen Ausbildungen für diese Position.
+Unser Angebot
+Gleitende Arbeitszeiten, ohne Kernarbeitszeit
+Möglichkeit mobil zu arbeiten (im Ausmaß bis zu 60%)
+Anstellung in Vollzeit (40 Wochenstunden)
+Möglichkeit zur Verrechnung von Überstunden oder Zeitausgleich
+Weiterentwicklungsmöglichkeiten in vielfältigen Aufgabenbereichen innerhalb von Wien Digital
+Ein großes Angebot an <<*>>Aus- und Weiterbildungsmöglichkeiten<<*>>
+Umfassendes Gesundheitsprogramm
+Wir bieten ein Einstiegsgehalt von 4.600,- Euro brutto monatlich. Durch die Anrechnung von berufseinschlägigen bzw. gleichwertigen Tätigkeiten als Vordienstzeiten kann sich ein höheres Gehalt ergeben.
+
+Wir möchten den Anteil an Frauen in diesem Berufsfeld erhöhen und laden daher besonders Frauen zur Bewerbung ein. Es gelten die Bestimmungen des Wiener Gleichbehandlungs- gesetzes.
+Sie möchten gerne für die Stadt Wien arbeiten?
+Dann bewerben Sie sich gleich hier online!
+Kontakt
+David Pulit
+Team <<*>>Personalentwicklung<<*>>
++43 1 4000 913423
+Jetzt bewerben
+Kontakt
+Wien Digital
+Stadlauer Straße 54/und/56

@@ -1,0 +1,66 @@
+<<*>>Embedded Software Developer for Motion Drives<<*>>
+bei B&R Industrial Automation GmbH
+Salzburg (Stadt) vor 3 Tagen
+Job empfehlen
+Jetzt bewerben
+WeGrowTogether
+<<*>>Embedded Software Developer for Motion Drives<<*>>
+Salzburg, Salzburg, Österreich
+Eggelsberg AT, Österreich
+Vöcklabruck, Österreich
+Linz, Upper Austria, Österreich
+Vollzeit Festanstellung
+Machen Sie den nächsten Karriereschritt bei B&R - a member of the ABB Group: Treiben Sie in einem globalen Team die Transformation von Gesellschaft und Industrie in eine produktivere und nachhaltigere Zukunft voran.
+
+Bei B&R fördern wir Vielfalt und Inklusion in allen Bereichen - ob Alter, Geschlecht, Sexualität, Ethnie, ob mit oder ohne Behinderung.
+
+Gemeinsam treten wir für individuelle Unterschiede ein - sowohl jeder für sich als auch zusammen.
+
+Join the Automation Team at B&R - a member of the ABB group.
+
+Das ist Ihre Chance! Machen Sie den nächsten Schritt und seien Sie dabei: <<*>>Embedded Software Entwicklung<<*>> der nächsten Servo-Antriebsgeneration mit höchsten Ansprüchen - wir entwickeln die dafür notwendigen Systeme von morgen!!
+
+Sie arbeiten in einem interdisziplinären Team an Lösungen für komplexe Problemstellungen der Antriebstechnik. Unsere Produktentwicklung im Bereich der Antriebstechnik ist auf mehrere Standorte in Österreich verteilt, wodurch wir Ihnen die Position in Eggelsberg, Salzburg, Schärding, Vöcklabruck oder Linz anbieten können.
+Ihr Verantwortungsbereich
+<<*>>Erarbeiten von Lösungsvorschlägen<<*>> innerhalb eines interdisziplinären Projektteams vom Konzept bis zur Serienreife
+<<*>>Konzeptionierung und Implementierung im Bereich von Embedded Software<<*>>
+<<*>>Implementierung der neuesten Feldbus-Technologien für Servo-Antriebstechnik<<*>>
+<<*>>Mitgestaltung und Entwicklung von Embedded Systems der neuen Servo-Antriebsgeneration<<*>>
+<<*>>Erstellung von funktionaler Simulation, Verifikation und Dokumentation<<*>>
+<<*>>Test und Inbetriebnahme von Hardware-Prototypen<<*>>
+<<*>>Verwendung bestehender Tools für Versionsverwaltung und Continuous Integration<<*>>
+Ihr Hintergrund
+<<*>>abgeschlossenes Studium (FH, Uni) im Bereich SW-Entwicklung, Informatik od. ähnliches<<*>>
+<<*>>sehr gute Kenntnisse und Erfahrung im Bereich FPGA Design, Verifikation und Timing Analyse<<*>>
+<<*>>fortgeschrittene Kenntnisse in der Embedded-Programmierung<<*>>
+<<*>>sehr gute Programmierkenntnisse, bevorzugt in C und VHDL<<*>>
+Analytisches und lösungsorientiertes Denkvermögen
+Aufgeschlossene Persönlichkeit mit einem hohen Maß an Organisations- und Teamfähigkeit
+Selbständige und strukturierte Arbeitsweise, hohe Eigenmotivation, sowie Team- und Kommunikationsfähigkeit
+Wir bieten:
+Flexible Arbeitszeiten
+Sicherer Arbeitsplatz
+Einzigartiger B&R Spirit
+Verpflegungsangebote
+B&R Corporate Benefits
+Mehr über uns
+Bei B&R - a member of the ABB Group, erwartet Sie eine spannende und herausfordernde Tätigkeit mit individueller Einarbeitungsphase. Sie arbeiten in agilen Teams und haben die Möglichkeit, Ideen aktiv einzubringen und voranzutreiben.
+Unser Gleitzeitmodell mit stundenweiser oder ganztägiger Zeitausgleichsmöglichkeit und bis zu zehn Tagen Homeoffice pro Monat bietet Ihnen eine optimale Work-Life-Balance.
+Unser einzigartiger B&R-Spirit ist geprägt von Wertschätzung, einer Kommunikation auf Augenhöhe und einer familiären Arbeitskultur.
+Wir bieten Ihnen maßgeschneiderte Aus- und Weiterbildungsprogramme sowie spannende Entwicklungsmöglichkeiten im Unternehmen.
+Zahlreiche weitere B&R Benefits (Mitarbeiterkantine/Essenszuschuss, kostenlose Heißgetränke, Sabbatical/Freizeitoption, Elternzeitprogramm, Programm zur Mitarbeiterunterstützung, diverse Sportangebote und vieles mehr) runden unser Angebot ab.
+
+Zur Einhaltung der rechtlichen Vorschriften verweisen wir auf das Mindestgehalt des Kollektivvertrages der Elektro- und Elektronikindustrie in Höhe von EUR 47.734,26 brutto/Jahr. Die klare Bereitschaft zur Überzahlung, abhängig von der Qualifikation und Erfahrung, ist vorhanden. {nur in Österreich}
+Jetzt bewerben auf unserem neuen ABB-Jobportal
+Haben wir Ihr Interesse geweckt?
+Dann freuen wir uns auf Ihre Bewerbung über unser Online-Tool!
+ABB's Machine Automation Division, bei unseren Kunden auch als B&R bekannt, ist ein innovatives Automatisierungsunternehmen mit Hauptsitz in Österreich und weiteren Niederlassungen auf der ganzen Welt. B&R ist seit 2017 Teil des Geschäftsbereichs ABB Division Robotics & Discrete Automation und beschäftigt zusammen mit der Division ABB Robotics mehr als 11.000 Mitarbeiter an über 100 Standorten in mehr als 53 Ländern.
+Als weltweit führender Anbieter von Automatisierungslösungen entwickelt, produziert und vertreibt B&R Industrieelektronik, Softwarelösungen und mechatronische Lösungen sowie Technologien für die Maschinen- und Fabrikautomatisierung. Seit 2020 umfasst das Automatisierungsportfolio von B&R auch Deltaroboter der Marke Codian. Mit seinen innovativen Lösungen setzt B&R neue Standards und übertrifft damit immer wieder die Erwartungen seiner Kunden.
+B&R Industrial Automation ist der Spezialist für innovative Automatisierungslösungen und ist Teil des globalen ABB Konzerns.
+
+Wollen Sie Teil unseres Teams werden?
+Dann freuen wir uns auf Ihre Bewerbung.
+
+Bewerbungsfrist: offen
+
+Jetzt bewerben auf unserem neuen ABB-Jobportal

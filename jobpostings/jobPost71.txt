@@ -1,0 +1,58 @@
+<<*>>Senior Java Developer (all genders)<<*>>
+Settlement & Custody Department is a part of the Erste Digital Corporates & Markets division and provides IT services for the Securities Backoffice of Erste Group.
+<<*>>Senior Java Developer (all genders)<<*>>
+Location: Vienna
+Working-Hours: Full-time
+Occupation Area: IT
+Company: Erste Digital
+We develop and maintain software for automated processing of security transactions. In cross-functional teams we support the entire lifecycle of our applications, including analysis, design, implementation, test, and production support. We are now looking for a <<*>>Senior Java Developer (all genders)<<*>> to join our team. You will be developing front to back applications and modernizing the Backoffice infrastructure.
+
+We are Erste Digital. We are #digitaltotheheart
+What to do
+Optimize existing applications to maximize speed and scale
+Act as trusted advisor on designing <<*>>Java centric solutions<<*>>
+Build libraries and micro-frameworks to improve development efficiency and break down code complexity
+Conduct code-reviews and pair programming sessions
+Document the process and pass knowledge to the team
+You check these boxes
+<<*>>Hands on experience with software development and a technical education (FH, university) in the field of computer science, business informatics or IT<<*>>
+<<*>>In-depth knowledge of : Java, Angular, Typescript, RXJS, NGRX, ES standards, SPRING Framework<<*>>
+Experience in banking and with securities specific content is of advantages
+Understanding of the <<*>>agile development methodology<<*>>
+Passion for teamwork, willingness to take ownership & willingness to discuss the optimal solution with our business
+<<*>>Minimum 3 years of experience in full Stack development<<*>>
+Fluency in English, German of advantage
+Why you will like us
+The opportunity to work in a progressive banking IT area and to develop your own areas of responsibility and to take on responsibility yourself
+Care, collegial working atmosphere characterized by mutual appreciation, team spirit and fun at work
+Possibility to benefit and learn from our international, talented and passionate community at Erste
+Great learning curve through ownership and creative freedom
+Interest groups and clubs: Take part in discussions and get involved in projects. Numerous interest groups invite you to engage with a topic
+Good food: Healthy nutrition and good food are important for our quality of life. With seven restaurants and cafeterias, there's something to suit every taste on the Erste Campus
+Health Centre - The Erste Campus operates a fully equipped health center that offers all employees a high standard of medical services during working hours.
+New way of work: With our flexible working hours model we want to make your life less complicated. Combing the best of both worlds, remote and company time.
+Employee benefits - Benefit from special conditions for financial services and insurances, supermarkets, clothing stores and many more.
+Employee Referral Program - Become a talent scout for career opportunities in IT. We are rewarding every successful referral for Erste Digital
+Language courses for German & English - Learning a new language unites. We support you with appropriate language courses where you participate together with your colleagues.
+Visa Sponsoring - We support our employees with all the formalities associated with a relocation
+Work-Life-Balance - Home office, paternity leave, sabbatical, sports courses -- we support you in balancing work, family and leisure time.
+The minimum wage for this full-time position in accordance with the collective agreement with complete fulfillment of the functional profile is EUR 56.448,--gross per year. But this is just a formality - we would be happy to talk about your actual salary in person!
+Discover and enjoy the benefits of Erste Group
+Apply online
+Jetzt bewerben
+Kontakt
+Erste Bank
+Am Belvedere 1
+1100 Wien
+Arbeitgeberprofil ansehen
+Ähnliche Jobs
+<<*>>Senior Java Developer<<*>>
+bei Computer Futures in Wien
+<<*>>Senior Java Developer<<*>>
+bei epunkt GmbH in Wien
+<<(Senior) JAVA Developer<<*>>
+bei Aschauer IT & Business GmbH in Wien
+<<*>>Senior Java Developer<<*>>
+bei epunkt GmbH in Wien
+<<*>>Senior Java Software Developer<<*>>
+bei EBCONT in Wien

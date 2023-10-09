@@ -1,0 +1,50 @@
+Text 2
+<<*>>Business Intelligence Developer (all genders)<<*>>
+bei Kärntner Sparkasse AG
+Klagenfurt am Wörthersee vor 3 Tagen
+Job empfehlen
+Jetzt bewerben
+Bei uns zu arbeiten, bedeutet an die Zukunft zu glauben; an die großartigen Menschen, die sie jeden Tag gemeinsam gestalten und an die verschiedensten Karrieremöglichkeiten, die sich damit eröffnen. #glaubandich
+<<*>>Business Intelligence Developer (all genders)<<*>>
+Dienstort: Klagenfurt am Wörthersee
+Arbeitszeitausmaß: Vollzeit
+Berufsfeld: IT
+Unternehmen: Kärntner Sparkasse AG
+Die Kärntner Sparkasse gehört zu den führenden heimischen Geldinstituten. Wir verstehen uns als attraktive Arbeitgeberin in Kärnten, die ihren Mitarbeiter:innen interessante Karrierechancen eröffnet. Werden Sie Teil unserer langjährigen Erfolgsgeschichte!
+
+Wir suchen im Bereich Strategische Gesamtbanksteuerung eine Nachbesetzung für die Position<<*>>Business Intelligence Developer (all genders)<<*>>
+Ihre Tasks
+<<*>>Entwicklung und Wartung von Business Intelligence-Lösungen<<*>>
+<<*>>Erstellung und Verwaltung von ETL-Prozessen mit Microsoft Analysis Services (Cubes)<<*>>
+<<*>>Design und Implementierung von Datenbankstrukturen in SQL-Server<<*>>
+<<*>>Unterstützung im Reporting und Bereitstellung datengesteuerter Einblicke für das Unternehmen<<*>>
+<<*>>Zusammenarbeit mit Stakeholdern zur Verbesserung von Datenqualität und Effizienz<<*>>
+Ihr Background
+<<*>>Abschluss in Informatik, Wirtschaftsinformatik oder verwandter Fachrichtung (z.B. HTL-Abschluss)<<*>>
+<<*>>Erfahrung in der Entwicklung mit SQL-Server und Microsoft Analysis Services<<*>>
+<<*>>Verständnis von Data Warehousing-Prinzipien und ETL-Prozessen<<*>>
+<<*>>Erfahrung mit Python, insbesondere mit Pandas Dataframes<<*>>
+<<*>>Starke analytische Fähigkeiten und Aufmerksamkeit für Details<<*>>
+<<*>>Gute Deutsch- und Englischkenntnisse in Wort und Schrift<<*>>
+Folgende Fähigkeiten runden Ihr Profil ab
+<<*>>Kenntnisse der Business Intelligence-Tools Tableau und Power-BI<<*>>
+<<*>>Kenntnisse des Tabular Models<<*>>
+Unser Angebot
+Entdecken Sie unsere Benefits wie Vergünstigungen, Weiterentwicklungsmöglichkeiten und Zuschüsse zur Kinderbetreuung
+Unkomplizierte Homeoffice-Lösungen
+Spannende und vielseitige Aufgaben in einem dynamischen Umfeld
+Das Mindestgehalt für diese Vollzeitposition (38,5h) nach dem geltenden Kollektivvertrag beträgt 40.150--Euro brutto pro Jahr bei vollständiger Erfüllung des Funktionsprofils. Über Ihr tatsächliches Gehalt sprechen wir gerne persönlich.
+Als Arbeitgeberin sind wir stolz darauf, allen die gleichen Chancen zu bieten, unabhängig von Alter, Hautfarbe, Religion, Geschlecht, sexueller Orientierung oder Herkunft.
+Werden Sie Teil unseres Teams und bewerben Sie sich jetzt.
+Online bewerben
+Jetzt bewerben
+Kontakt
+Kärntner Sparkasse AG
+Neuer Platz 14
+9020 Klagenfurt
+Arbeitgeberprofil ansehen
+Ähnliche Jobs
+<<*>>Business Intelligence/DWH/Report Entwicklung (all genders)<<*>>
+<<*>>Project Manager / Consultant - Cloud DWH & BI<<*>>
+<<*>>Junior Research Engineer for Model-based Risk Analysis Software<<*>>
+bei AIT Austrian Institute of Technology GmbH in Wien

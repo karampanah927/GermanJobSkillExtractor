@@ -1,0 +1,42 @@
+<<*>>Senior Frontend Developer Energy Storage <<*>>
+bei VARTA Innovation GmbH
+Graz vor 3 Tagen
+Job empfehlen
+Mit karriere.at bewerben
+Um gemeinsam zu wachsen und uns der Herausforderungen von morgen anzunehmen, suchen wir Dich für unseren Standort Graz als
+<<*>>Senior Frontend Developer Energy Storage<<*>>
+Wir machen Menschen unabhängiger.
+Unsere Kunden durch unsere Batterietechnologien. Unsere Mitarbeiter durch ein Mehr an Unabhängigkeit. Denn als regionales Traditionsunternehmen bietet VARTA Dir einen sicheren Arbeitsplatz in einem starken Miteinander. Und als technologieführende Weltmarke öffnet VARTA Dir Gestaltungsspielraum in spannenden Projekten und Aufgaben im Zukunftsmarkt innovativer Energie-Lösungen.
+Deine Aufgaben
+<<*>>Weiter- und Neuentwicklung unserer Web-Frontends<<*>>
+Führende Mitwirkung bei der <<*>>strategischen Gestaltung von Softwarearchitekturen<<*>> und bei der <<*>>Auswahl von Technologien von Web-Frontends<<*>>
+Mitarbeit bei der <<*>>Weiterentwicklung der UI-Komponenten<<*>> und bei der <<*>>stetigen Verbesserung der User-Experience<<*>>
+<<*>>Mentoring im Bereich Frontend Entwicklung<<*>>
+Als <<*>>Web Developer<<*>> arbeitest Du in einem Fullstack-Team bei Bedarf auch mal bei Themen wie <<*>>Backend-Entwicklung in Kotlin und Rust<<*>> oder <<*>>DevOps (Docker, Kubernetes)<<*>>
+Das bringst Du mit
+<<*>>Erfolgreich abgeschlossenes Studium in Informatik, Medieninformatik<<*>> oder vergleichbare Berufserfahrung
+<<*>>Mehrjährige Berufserfahrung in der Web-Entwicklung (JavaScript/TypeScript, HTML, CSS)<<*>> mit breiter Übersicht über existierende Frameworks und Technologien
+Mehrjährige Berufserfahrung in der Web-Entwicklung (<<*>>JavaScript<<*>>/<<*>>TypeScript<<*>>,<<*>>HTML<<*>>, <<*>>CSS<<*>> mit breiter Übersicht über existierende Frameworks und Technologien
+<<*>>Erfahrung in einer agilen Entwicklungslandschaft<<*>>
+<<*>>Sicherer Umgang mit aktuellen Technologien wie z.B. Git, CI/CD-Pipelines, WebComponents<<*>>
+Sicherer Umgang mit aktuellen Technologien wie z.B. <<*>>Git<<*>>, <<*>>CI/CD-Pipelines<<*>>, <<*>>WebComponents<<*>>
+Vorteilhaft sind darüber hinaus vertiefte <<*>>Kenntnisse von UX-Design, Python Security-Konzepten<<*>>
+Vorteilhaft sind darüber hinaus vertiefte Kenntnisse von <<*>>UX-Design<<*>>, <<*>>Python Security-Konzepten<<*>>
+Wenn Du mit uns gemeinsam Menschen unabhängiger machen willst, freuen wir uns auf Deine Bewerbung!
+VARTA Innovation GmbH
+Stefan Koller
+
+Stremayrgasse 9
+8010 Graz
+Mit karriere.at bewerben
+Kontakt
+VARTA Innovation GmbH
+Stremayrgasse 9
+8010 Graz
+Arbeitgeberprofil ansehen
+Remember, while I tried to stick to the pattern you provided with the first text, the concept of what's a skill or specific job role can sometimes be a bit subjective.
+
+
+
+
+

@@ -1,0 +1,82 @@
+Text 2
+DevOps Engineer
+bei UNIQA Insurance Group AG
+Wien vor 3 Tagen
+Job empfehlen
+Jetzt bewerben
+DevOps Engineer
+Als eine der führenden Versicherungen wissen wir, dass wir gemeinsam mehr bewegen können. Bei UNIQA sind wir deshalb die Gemeinschaft für ein besseres Leben. Wir nutzen unsere individuellen Fähigkeiten, um zusammen eine bessere Zukunft zu gestalten. Erzähle uns von deinen Stärken und bewirb dich bei der UNIQA IT Services GmbH (UITS), dem IT-Dienstleister der UNIQA Group, als <<*>>DevOps Engineer (m/w/d)<<*>>
+Das erwartet dich:
+<<*>>Sicherstellung der Lauffähigkeit der Java-basierten UNIQA Insurance Plattform (UIP) in Zusammenarbeit mit den Rechenzentren<<*>>
+Unterstützung beim Aufbau von neuen Systemen gemeinsam mit den Rechenzentren
+Technischer Ansprechpartner für externe Partner im UIP Programm
+<<*>>Monitoring der Applikationen auf der Core Insurance Plattform hinsichtlich Performance und Verfügbarkeit<<*>>
+Ableiten von Maßnahmen für Continuous Service Improvement
+<<*>>Unterstützung bei Incidents und Task Forces (Problems)<<*>>
+Unterstützung der Architektur bei Life Cycle Management Planung
+Wir erwarten uns:
+<<*>>Sehr gute allgemeine IT-Software und Hardware Kenntnisse (z.B. Linux /Unix, MS Office) sowie versierte Kenntnisse mit Netzwerk und TCP Stacks<<*>>
+<<*>>Erfahrung mit Java basierten Anwendungen / Troubleshooting / Tuning Kenntnisse mit Jenkins / Git / Aritfactory sowie Ansible und weitere Tools mit Automatisierungslösungen<<*>>
+<<*>>Erfahrung mit Container basierten Infrastrukturen, Automic Workload Automation, Testautomatisierungslösungen von Tricentis sowie Oracle
+Datenbanken Arbeitserfahrung in den Bereichen RedHat JBoss Web & Application Server Management sowie SAG WebMethods und API Portal sind vorteilhaft<<*>>
+<<*>>Idealerweise gute Kenntnisse von Loganalysetoools (z.B. Splunk) bzw. Application Performance Management (z.B. Dynatrace)<<*>>
+<<*>>Verhandlungssicheres Deutsch und Englisch<<*>>
+Du passt zu uns, wenn du:
+Kund:innenbedürfnissen oberste Priorität zuschreibst
+handlungsorientiert agierst und aus Fehlern lernst
+einfache und realisierbare Lösungen findest
+eigenverantwortliches Handeln förderst
+Wir bei UNIQA leben Vielfalt. Wir setzen auf unterschiedliche Perspektiven in unseren Teams und Führungspositionen. Daher freuen wir uns sehr über Bewerbungen, die unsere Vielfalt bereichern.
+Du bist dir nicht sicher, ob dein Profil unseren Anforderungen entspricht? Bewirb dich trotzdem! UNIQA sucht nach Kandidat:innen mit Ambition, Mut zur Veränderung und Begeisterungsfähigkeit!
+JOB KEY FACTS
+Standort: Wien, AT
+Stundenausmaß: 38,5
+Jährliches Mindestgehalt Brutto (Euro): 50.000
+Startdatum: ab sofort
+Du strebst nach Mehr als dem Minimum - wir ebenso! Dein tatsächliches Gehalt vereinbaren wir abhängig von deiner Ausbildung und deiner Erfahrung im Zuge des Recruitingprozesses.
+Wir freuen uns, dich im Rahmen eines Erstgespräches virtuell kennen zu lernen. Weitere Gespräche werden in Folge vor Ort in unserer Zentrale im UNIQA Tower in Wien durchgeführt.
+Deine Vorteile auf einen Blick:
+Flexible Arbeitszeit durch Gleitzeitvereinbarungen, Möglichkeit von Home Office
+Herausfordernde Themen in einem dynamischen Arbeitsumfeld
+Zentrale Rolle bei der Entwicklung der digitalen Zukunft der UNIQA Insurance Group
+Betriebliche Altersvorsorge
+Multinationales Arbeitsumfeld und Zusammenarbeit in der gesamten UNIQA Insurance Group
+Betriebsausflüge und gemeinsame Veranstaltungen, die das Miteinander und den Zusammenhalt fördern
+Büro im Herzen der Stadt
+Im Headquarter bietet der innovative UNIQA Tower offene Strukturen, erholsame Pausenzonen, ein Restaurant mit hochqualitativer und kostengünstiger Mittagsverpflegung, Café und vergünstigte Mitgliedschaft für Fitness-Center im Haus (John Harris)
+<<*>>Onboarding"<<*>>-Programm für einen optimalen Einstieg, Begleitung und Unterstützung durch erfahrene Kolleg:innen und Führungskräfte vom ersten Tag an
+Offene, wertschätzende Kommunikation und Feedbackkultur im Unternehmen
+Familienfreundliches Unternehmen mit Zusatzleistungen
+Attraktive Karrierechancen und breites Angebot an Weiterbildung
+Lösungsorientierte externe Beratung & Coaching für alle Mitarbeitenden und deren Angehörige (Online oder vor Ort, österreichweit an 9 Standorten)
+Hier geht's zur UNIQA Tower Tour!
+Deine Ansprechperson
+Julia Groissenberger
+Recruiting Expert
+Untere Donaustraße 21
+A - 1029 Wien
++43 664 783 194 16
+Jetzt bewerben »
+Jetzt bewerben
+Kontakt
+UNIQA Insurance Group AG
+Untere Donaustraße 21
+1029 Wien
+Arbeitgeberprofil ansehen
+Ähnliche Jobs
+<<*>>DevOps Cloud Engineer Kubernetes<<*>>
+bei Accenture in Innsbruck
+<<*>>Senior Data Architect<<*>>
+bei Capgemini in Wien
+<<*>>Data Engineer<<*>>
+bei Capgemini in Wien
+<<*>>Windows System Engineer - DevOPS & Automatisierung<<*>>
+bei epunkt GmbH in Wien
+<<*>>Automation Engineer / DevOps Engineer<<*>>
+bei RUBICON IT GmbH in Wien
+<<*>>IT Engineer DevOps - Embedded Linux Administration<<*>>
+bei Ratbacher GmbH in Wien
+<<*>>Senior DevOps Engineer<<*>>
+bei HEROLD Business Data GmbH in Wien
+<<*>>DevOps Engineer<<*>>
+bei epunkt GmbH in Wien

@@ -1,0 +1,28 @@
+<<*>>Server Administrator<<*>>
+Starte jetzt Deine Tech-Karriere Made in Austria als <<*>>Server Administrator<<*>> und entwickle Dich und mit uns die Softwarelösungen von morgen.
+Planung, Leitung und Umsetzung von Projekten im Bereich <<*>>Linux/Windows Server<<*>>, Client und Cloud (MS Azure)
+Proaktiver Service bestehender <<*>>IT-Infrastruktur<<*>> inkl. Virtual Desktop (VMware Horizon)
+Lösung von Service und Change Requests im <<*>>2nd- & 3rd-Level-Bereich<<*>>
+Aufbau und Weitergabe von Expert:innenwissen in einem gewählten Fachgebiet (bspw. <<*>>Exchange<<*>>, <<*>>SCCM<<*>>, <<*>>MDM/MAM<<*>> etc.)
+Einführung neuer sowie Weiterentwicklung bestehender interner <<*>>IT-Tools<<*>> und Standards
+<<*>>Automatisierung von Abläufen (Powershell)<<*>>
+Gewährleistung der Betriebssicherheit der <<*>>IT-Services<<*>> der unterschiedlichen Rechenzentren sowie Bereitschaftsdienst (extra Vergütung)
+3-5 Jahre <<*>>Berufserfahrung im IT-Umfeld<<*>>
+Fachkompetenz im Bereich von <<*>>Microsoft Server Technologien: Server 2016 und höher, Active Directory, Exchange, DHCP, DNS, SCCM<<*>> sowie Scripting (Power Shell o. Ä.)
+<<*>>Erfahrungen mit Modern Workplace Technologien<<*>> (z. B. Windows Autopilot, Co-Management etc.)
+<<*>>Erfahrungen mit Cloud-Technologien<<*>> (bspw. Microsoft 365, Azure etc.) und im Bereich Design, Installation und Betrieb von Microsoft Infrastrukturen
+<<*>>Kenntnisse von Backup-Lösungen<<*>> (z. B. Veeam) sowie <<*>>Administration von Hypervisoren<<*>> (VMWare, Nutanix) von Vorteil
+Microsoft <<*>>System Engineer - Logistiksysteme<<*>>
+bei Österreichische Post AG in Österreich
+<<*>>Linux System Engineer<<*>>
+bei ANEXIA Internetdienstleistungs GmbH in Wien
+<<*>>System Engineer - Virtuelle Server Templates<<*>>
+bei ANEXIA Internetdienstleistungs GmbH in Wien
+<<*>>Administrator Windows Server<<*>>
+bei Job World GmbH in Wien
+<<*>>IT Systemadministrator mit Schwerpunkt Server- und Netzwerkadministration<<*>>
+bei ISIS Papyrus Europe AG in Brunn am Gebirge
+<<*>>System Engineer<<*>>
+bei IMS Nanofabrication GmbH in Brunn am Gebirge
+<<*>>IT System Administrator<<*>>
+bei Doka in Amstetten

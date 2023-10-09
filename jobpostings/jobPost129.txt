@@ -1,0 +1,61 @@
+Text 2
+<<*>>Oracle Datenbank Administrator (m/w/d)<<*>>
+bei DBConcepts GmbH
+Wien vor 3 Tagen
+Job empfehlen
+Mit karriere.at bewerben
+Du suchst einen Job mit Zukunft? IT und Daten sind genau dein Ding? Dann bist du bei uns richtig! Als aufstrebendes und stetig wachsendes Unternehmen suchen wir neue Kolleginnen und Kollegen, die unser Team bereichern. Wir sind seit über 20 Jahren im Datenbankumfeld am österreichischen Markt tätig und als die <<*>>Oracle<<*>> Experten über die Grenzen hinaus bekannt. Unser stetiges Wachstum bietet zahlreiche Karriereperspektiven und unser Erfolg verspricht Sicherheit in herausfordernden Zeiten. Wir suchen dich zur Verstärkung unseres Teams in Wien als
+<<*>>ORACLE DATENBANKADMINISTRATOR - Remote möglich<<*>>
+Deine zukünftige Rolle/ Deine Aufgabe
+Du konzipierst, designst und realisierst <<*>>Datenbankumgebungen<<*>> in anspruchsvollen Projekten
+Du übernimmst Eigenverantwortung bei großen und kleinen Projekten
+Du berätst unsere Kunden, um die bestmögliche Lösung und den Service zu gewährleisten
+Du analysierst die <<*>>Datenbanken<<*>> unserer Kunden und erarbeitest Optimierungsansätze auf <<*>>Datenbank-<<*>> und Anwendungsebene, dabei behältst du das <<*>>Backup & Recovery Setup<<*>> immer in den Augen
+<<*>>Knowledge Transfer<<*>> intern und extern - wir teilen unser Wissen gern intern und mit unseren Kunden
+Du bietest / Dein Profil
+Du verfügst über fundierte Erfahrungen in der <<*>>Oracle Administration - 12c<<*>> oder höher
+Du hast umfangreiche Kenntnisse im Bereich <<*>>SQL<<*>> und <<*>>PL/SQL<<*>> sowie <<*>>Linux<<*>> und <<*>>Windows<<*>>
+Du hast Interesse an unterschiedlichen Projekten, die dein logisches und analytisches Denken immer wieder auf Trab halten
+Du scheust dich nicht vor <<*>>Oracle Datenbanken<<*>> auf unterschiedlichster <<*>>Hardware Infrastruktur<<*>> und <<*>>Betriebssystemen<<*>>
+Falls du schon einmal mit <<*>>Supercluster<<*>> oder <<*>>Exadata<<*>> gearbeitet hast, freuen wir uns besonders
+Du bist kundenorientiert, genau und verantwortungsbewusst
+Du bist zuverlässig und flexibel
+Du bist bereit dich weiterzubilden (z.B. <<*>>ITIL<<*>>, <<*>>Projektmanagement<<*>>)
+Voraussetzung für den Job
+<<*>>Abgeschlossene technische Ausbildung (HTL oder technisches Studium)<<*>> und/oder langjährige Praxis
+<<*>>Kommunikations- und Teamfähigkeit<<*>> (Feedbackkultur, Hilfsbereitschaft, Interkulturell)
+Flexibilität und hohe Einsatzbereitschaft
+Das bieten wir
+Die exzellente Arbeit unserer Mitarbeiterinnen und Mitarbeiter ist die Basis für unseren Erfolg. Um das zu honorieren, bieten wir neben einem attraktiven Paket an diversen Benefits & Goodies eine sehr gute Entlohnung. Der Einsatz unsere MitarbeiterInnen ist uns jeden Cent wert, daher haben wir keine All-In Verträge oder Überstundenpauschalen (außer auf Wunsch). Uns ist eine ausgewogene Work-Life-Balance wichtig und daher bieten wir den MitarbeiterInnen 2 HomeOffice-Tage an.
+Moderner Arbeitsplatz & Pool Billard
+Know-How-Transfer Network
+Top-Projekte am Puls der Zeit
+Coole Events & Messen
+Weiterbildungsmassnahmen
+Versicherung, Pension & Gesundheit
+Wiener Linien-Öffi Karte
+Gesundheit: Fitnesscenter
+Obst, Getränke, Essens-Bonus
+Konstenloser Parkplatz
+Das Mindest-Brutto-Jahresgehalt für diese Stelle beträgt EUR 56.000,-. Das tatsächliche Gehalt bzw. die marktkonforme Überzahlung ist für uns selbstverständlich und richtet sich nach Qualifikation, Erfahrung und Vordienstzeiten.
+
+Wenn du dich in der Jobbeschreibung wiederfindest, sende deine aussagekräftige Bewerbung inkl. Lebenslauf und Gehaltsvorstellung an: recruitment@dbconcepts.com
+
+Dieses Inserat richtet sich gleichermaßen an alle Personen unabhängig von Geschlecht, Religion, ethnische Zugehörigkeit, Weltanschauung, Alter und sexueller Orientierung.
+Mit karriere.at bewerben
+Kontakt
+DBConcepts GmbH
+Donau-City-Straße 11 - ARES TOWER
+1220 Wien
+Arbeitgeberprofil ansehen
+Ähnliche Jobs
+<<*>>Junior Oracle Datenbankadministrator<<*>>
+bei DBConcepts GmbH in Wien
+<<*>>IT - Applikations- & Datenmanager<<*>>
+bei SK Rapid GmbH in Wien
+<<*>>IT Project Manager<<*>>
+bei MIC Datenverarbeitung GmbH in Linz
+<<*>>Linux System Engineer<<*>>
+bei Bundesrechenzentrum GmbH in Wien
+<<*>>Backend Developer Analyse Framework<<*>>
+bei STIWA Group in Hagenberg

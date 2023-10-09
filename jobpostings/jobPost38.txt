@@ -1,0 +1,61 @@
+<<*>>Fullstack-EntwicklerIn<<*>>
+bei chax.at
+Graz vor 3 Tagen
+Job empfehlen
+Mit karriere.at bewerben
+chax.at (Firmenwortlaut: Midlight GmbH) ist ein junges, innovatives Unternehmen in der IT-Branche mit Kunden aus der Privatwirtschaft und der öffentlichen Hand. Wir erstellen komplexe Web-Anwendungen, große Online-Shops, Lernplattformen für Kunden und eigene Produkte (z.B. recordIT, Dokumentationstool und mini-ERP, storywi.se, eine Requirements-Engineering-Software, sportpay24, eine Ticketing-Plattform, easy-access, eine Art Tripadvisor für Menschen mit Beeinträchtigung). Einen Einblick über unsere Projekte kannst du auf unserer Homepage www.chax.at erhalten. Für unser Team in Graz suchen wir eine/n engagierte/n
+<<*>>Senior Fullstack-EntwicklerIn<<*>>
+Vollzeit 38,5h oder Teilzeit ab 20h
+Deine Challenge bei uns ist die Entwicklung und Umsetzung von diversen Applikationen.
+Voraussetzungen:
+<<*>>Programmiererfahrung mit mind. einem davon: Vue/react/Aurelia (notfalls: Angular/Solid/Svelte) oder Node.js (nest.js)<<*>>
+<<*>>Programmiererfahrung<<*>> mit mind. einem davon: <<*>>Vue<<*>>/<<*>>react<<*>>/<<*>>Aurelia<<*>> (notfalls: <<*>>Angular<<*>>/<<*>>Solid<<*>>/<<*>>Svelte<<*>>) oder <<*>>Node.js<<*>> (<<*>>nest.js<<*>>
+<<*>>Freude an neuen Herausforderungen und Lernbereitschaft<<*>>
+<<*>>Teamfähigkeit<<*>>
+<<*>>abstraktes Denkvermögen<<*>>
+Du...
+arbeitest gerne in einem kompetenten Team, wo du was lernen kannst & auch dein Wissen teilen kannst
+<<*>>besitzt eine Vorliebe für saubere und gut gemachte Lösungen<<*>>
+<<*>>hast einen guten Nerdfaktor<<*>>
+<<*>>kannst mit Git umgehen<<*>>
+Und vielleicht hast du sogar...
+<<*>>Erfahrung mit TypeScript<<*>>
+<<*>>Eine gute Vorstellung was so auf einem Server, in der Cloud passiert<<*>>
+<<*>>schonmal mit JIRA, Confluence, Bamboo gearbeitet<<*>>
+Wir bieten:
+richtig guten Kaffee (& Tee)
+interessante, herausfordernde Projekte (#challengeaccepted)
+ein Team, das technisch gerne über den Tellerrand schaut
+technische und organisatorische Mitgestaltungsmöglichkeiten
+gutes Arbeitsklima & motivierte KollegInnen mit gutem Humor
+flexible Arbeitszeiten: freie Gleitzeit & Home-Office
+sehr gute Anbindung an öffentliche Verkehrsmittel & Fahrradwege
+einen jährlichen Betriebsurlaub in Kroatien
+Chef's die auch mal kochen
+eine superlästige Bürokatze
+Weihnachtsfeiern öfter als 1x im Jahr
+Obstkorb!!, Snacks, Bier, Säfte, PS4, VR, 4K-Beamer, Switch, ...
+Wir bieten ein Gehalt von mindestens 3.910,- EUR Brutto (ST1, Erfahrungsstufe) auf Basis Vollzeit. Kein All-In oder ähnlicher Blödsinn! Wenn du mehr Wissen und besseres technisches Verständnis mitbringst, dann zahlen wir natürlich dementsprechend mehr.
+chax.at (Firmenwortlaut: Midlight GmbH)
+Dipl.-Ing. Simon Jiménez, MA
+jobs@chax.at
+Griesgasse 1
+8020 Graz
+Mit karriere.at bewerben
+Kontakt
+chax.at
+Griesgasse 1/2
+8020 Graz
+Arbeitgeberprofil ansehen
+Ähnliche Jobs
+<<*>>PHP-Entwickler<<*>>/<<*>>Fullstack Developer<<*>>
+bei 4a Group in Wien
+<<*>>Fullstack Developer - NodeJS/React/Typescript<<*>>
+<<*>>Fullstack Developer<<*>> - <<*>>NodeJS<<*>>/<<*>>React<<*>>/<<*>>Typescript<<*>>
+bei VOO Aviation Service GmbH in Graz
+<<*>>Fullstack Developer (all genders)<<*>>
+bei adesso Austria GmbH in Wien
+<<*>>(Senior) Full-Stack Developer<<*>>
+bei Tietoevry Austria in Wien
+<<*>>IT-Softwareentwickler<<*>>
+bei EVG Entwicklungs- u Verwertungs-GesmbH in Raaba

@@ -1,0 +1,69 @@
+Text 2 (Processed)
+
+DevOps for Data Products & Services
+bei Kapsch TrafficCom
+Klagenfurt vor 3 Tagen
+Job empfehlen
+Jetzt bewerben
+Kapsch TrafficCom develops smart solutions to make mobility safer, more sustainable and efficient for everybody. We design, build and operate traffic management systems including connected vehicles technology and mobility demand management as well as tolling services for cities, roads, tunnels and bridges around the world. We develop data and video analytics platforms, building on state-of-the-art technologies including AI, machine learning, big data and cloud services to enable the digitalization of mobility.
+Your Responsibilities
+<<*>>You deploy and operate the infrastructure needed to power our data products and services<<*>>
+<<*>>You implement and improve continuous integration and continuous delivery<<*>>
+<<*>>Automating what is not, addressing security and data protection procedures<<*>>
+<<*>>You expand our platform's observability through monitoring, logging and alerting<<*>>
+<<*>>Working hand-in-hand with the development team to contribute to our solutions<<*>>
+<<*>>You ensure that our environments operate at peak efficiency<<*>>
+Your profile
+<<*>>Proven experience as DevOps / Ops / SRE Engineer<<*>>
+<<*>>Degree in Information Technology or equivalent practical experience<<*>>
+<<*>>Great passion for DevOps and Cloud Computing (Azure, AWS)<<*>>
+<<*>>Experience with infrastructure automation and configuration management (Ansible, Helm, Terraform)<<*>>
+<<*>>Practical knowledge of CI / CD tools preferably Gitlab<<*>>
+<<*>>Experience in deploying and operating container technologies on-premise and in the Cloud<<*>>
+<<*>>Working experience in one or more of the following: Python, Golang, Java, Scala<<*>>
+<<*>>Good oral and written English (Spanish or German is a plus)<<*>>
+Our offer to you
+Challenging limits of mobility for a healthy world without congestion
+An interesting full-time position with high responsibility within one of our growing markets
+Work in a friendly environment within a dynamic international team
+Onboarding with experienced colleagues to get familiar with the business and the domain
+Social benefits of a modern company, e.g. Homeoffice, mobile devices, flexible working hours, bridge day regulation etc.
+Start date: as soon as possible
+Market-compatible gross salary starting at EUR 50.000 p.a., however it can be adapted according to your qualifications and relevant experience
+Kapsch is proud to be an equal opportunity employer. We attach great importance to a balance in the diversity of our employees. Therefore we welcome all applications without regard to gender, age, religious beliefs/ideology, sexual orientation, ethnicity or national origin.
+Jetzt bewerben
+Job Facts
+Klagenfurt
+Vollzeit
+Benefits
+Flexible Arbeitszeitmodelle
+Unterstützung zur Vereinbarkeit Familie und Beruf
+Weihnachtsurlaub/ Fenstertagregelung
+Homeoffice/ Mobile Devices
+Strukturierte Karriereplanung/-wege
+Aus-und Weiterbildungsangebote
+Jobrotation/ Mobile Work
+Moderne Office-Infrastruktur
+Gute öffentliche Verkehrsanbindung/ Jobticket on top
+Betriebsarzt sowie Resilience and Care Counselor
+Feste und Events
+Zukunftsvorsorge
+Mitarbeiter Vergünstigungen
+Ihr Kontakt
+Tatiana Rezan-Sirotinskis
+Talent Acquisition Partner - Austria
+Kapsch Partner Solutions GmbH
++43 (0664) 6281906
+Jetzt bewerben
+Kontakt
+Kapsch TrafficCom
+Am Europlatz 2
+1120 Wien
+Arbeitgeberprofil ansehen
+Ähnliche Jobs
+<<*>>Data Engineer (gn*)<<*>>
+bei TÜV AUSTRIA in Wien
+<<*>>.net Developer IT<<*>>
+bei Österreichische Post AG in Österreich
+<<*>>IT Quality Assurance Engineer<<*>>
+bei Österreichische Post AG in Österreich

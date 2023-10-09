@@ -1,0 +1,42 @@
+Text 2
+<<*>>Data Architect<<*>>
+bei ZKW Group GmbH
+Wieselburg vor 3 Tagen
+Job empfehlen
+Jetzt bewerben
+Die ZKW Group ist der Spezialist für innovative Premium-Lichtsysteme und Elektronik und somit ein weltweit präsenter Partner der Automobilindustrie. Der Hauptsitz in Wieselburg ist mit allen Standorten in den Bereichen Entwicklung und Produktion global vernetzt. Unser primäres Ziel ist hochtechnologische Produkte mit höchster Qualität zu fertigen und gemeinsam die Entwicklung innovativer Gesamtlichtsysteme voranzutreiben.
+<<*>>Data Architect<<*>>
+AUFGABEN:
+<<*>>Design und Entwicklung von skalierbaren und performanten Datenarchitekturen<<*>>
+<<*>>Konzeption und Implementierung von Datenintegrationsprozessen<<*>>
+<<*>>Überwachung und Optimierung der Analytics Systemlandschaft<<*>>
+<<*>>Entwicklung von Datenstrategien und -standards<<*>>
+<<*>>Evaluierung und Bewertung neuer Technologien und Methoden<<*>>
+<<*>>Schulung von Teammitgliedern in Datenarchitektur- und Datenintegrationskonzepten<<*>>
+<<*>>Review von Designkonzepten sowie Quality Checks von implementierten Analytics Lösungen<<*>>
+QUALIFIKATIONEN:
+<<*>>Mindestens 3 Jahre Erfahrung in der Gestaltung von Datenarchitekturen und Datenintegrationsprozessen<<*>>
+<<*>>Expertenwissen in SAP BW/4HANA und/oder MS SQL Server<<*>>
+<<*>>Ausgeprägte Kenntnisse in Datenbanktechnologien und -methoden<<*>>
+<<*>>Erfahrung in der Arbeit mit Cloud-Plattformen wie Azure oder AWS von Vorteil<<*>>
+<<*>>Hohe analytische Fähigkeiten und die Fähigkeit, komplexe Geschäftsanforderungen in Datenanforderungen umzuwandeln<<*>>
+<<*>>Sehr gute Kommunikationsfähigkeiten in Deutsch und Englisch<<*>>
+<<*>>Eine einschlägige Ausbildung (idealerweise mit Schwerpunkt Datenbanken oder Datawarehouse Technologien) oder vergleichbare Berufsausbildung<<*>>
+WIR BIETEN IHNEN:
+Vielfältige Social Benefits (unter anderem Aus- und Weiterbildungsmöglichkeiten, Home Office, betriebliche Gesundheitsförderung, Betriebsrestaurant etc.)
+Ein Jahresbruttogehalt ab EUR 60.000,00 (lt. Kollektivvertrag Metallgewerbe - Fachbereich Fahrzeugindustrie). Die tatsächliche Bezahlung ist abhängig von der jeweiligen Qualifikation bzw. Berufserfahrung.
+Eintritt ab sofort
+BEWERBEN SIE SICH JETZT UNTER ZKW.JOBS
+zkw-group.com/datapolicy
+ZKW GROUP GMBH | Rottenhauser Straße 8 | A-3250 Wieselburg | +43 7416 505 0
+Jetzt bewerben
+Kontakt
+ZKW Group GmbH
+Rottenhauser Straße 8
+3250 Wieselburg
+Arbeitgeberprofil ansehen
+Ähnliche Jobs
+<<*>>Digitalization Architect - Enterprise & Solution<<*>>
+bei ISTA - Institute of Science and Technology Austria in Klosterneuburg
+<<*>>.net Developer IT<<*>>
+bei Österreichische Post AG in Österreich

@@ -1,0 +1,2159 @@
+wtpsplit
+
+0
+Engineer Environmental Testing (m/w/d)
+1
+bei 
+2
+Computer 
+3
+Futures
+4
+Linz heute
+5
+Job 
+6
+empfehlen
+7
+Mit 
+8
+karriere.
+9
+at 
+10
+bewerben
+11
+Engineer Environmental Testing (m/w/d)
+12
+f�r 
+13
+unseren Kunden 
+14
+suchen wir aktuell einen freiberuflichen 
+15
+Environmental Testing Engineer (m/w/d)
+16
+Start: Ab September
+17
+Ort: Gro�rau
+18
+m 
+19
+Linz & 
+20
+Remot
+21
+e
+22
+Auslastung: Vollzeit
+23
+Projektsprache: Deutsch (ab B2) & Englisch
+24
+Dauer: 6 Monat
+25
+e
+26
+Anforderungen & Aufgaben:
+27
+Abstimmung der Env.& 
+28
+Dur. 
+29
+Testumf�nge/Teststrategie mit internen Abteilungen (eDS/DS) und externen (OEM) 
+30
+Kunden f�r 
+31
+Akquise- 
+32
+und Vor- 
+33
+und Serienentwicklungsprojekten
+34
+Support bei Requirement Analyse f�r 
+35
+Env. & 
+36
+Dur. Umf�nge, Erstellung von Testspezifikationen und Spezifikation von Pr�fst�nden
+37
+Techn. 
+38
+Abstimmung mit Testlabors intern/extern, 
+39
+Terminplanung, Unterst�tzung bei der Testdurchf�hrung, 
+40
+Supplier Monitoring
+41
+Auswertung und Interpretation von Testergebnissen und Reporting im Projekt
+42
+Koordinieren und Managen von Fehleranalysen 
+43
+w�hrend der Testdurchf�hrung
+44
+Erarbeitung von Lastprofilen, Temperaturprofilen und Erprobungsstrategien
+45
+Planung und systematische Umsetzung der Projektziele der Gruppe in Hinblick auf Umfang, Termine, Ressourcen und Qualit�t (Serienentwicklungsprojekten / Akquisitionsprojekten / Plattformprojekten)
+46
+Wenn Sie sich angesprochen f�hlen, freue ich mich �ber eine E-Mail mit Ihrem aktuellen Lebenslauf (als Word-Datei und auf Deutsch) und der Vorstellung Ihres Stundensatzes an:
+47
+E-Mail: j.kuchenbaecker[at]computerfutures.at
+48
+Telefon: 
+49
++43 1 395071529
+50
+Gerne 
+51
+melde 
+52
+ich mich 
+53
+bei �bereinstimmung anschlie�end 
+54
+im 
+55
+Laufe 
+56
+der 
+57
+Woche 
+58
+telefonisch bei Ihnen.
+59
+Ich 
+60
+freue 
+61
+mich 
+62
+auf 
+63
+Ihre 
+64
+R�ckmeldung!
+65
+�ber 
+66
+Computer 
+67
+Futures
+68
+Computer Futures ist eine der weltweit f�hrenden Personalberatungen f�r IT & 
+69
+Tech und ist Teil der auf die MINT-Branche spezialisierten SThree PLC. 
+70
+Wir vermitteln Fach- 
+71
+und F�hrungskr�fte in Festanstellung, Experten�berlassung sowie Freiberufler. 
+72
+Unsere Personalberater agieren regional und verstehen so die lokalen Arbeitsmarkt-Trends.
+73
+Wir 
+74
+nehmen uns Zeit, um Ihre Bed�rfnisse kennenzulernen und stehen Ihnen w�hrend des gesamten Bewerbungsprozesses kompetent zur Seite. 
+75
+Bewerben Sie sich jetzt auf eine unserer zahlreichen Stellen oder kontaktieren Sie uns unter https://www.computerfutures.com/de-de/kontakt/.
+76
+Weitere 
+77
+Informationen 
+78
+zu 
+79
+Computer 
+80
+Futur
+81
+es
+82
+computerfutures.com
+83
+Mit 
+84
+karriere.
+85
+at 
+86
+bewerben
+87
+Kontakt
+88
+Computer Futures
+89
+Wiedner 
+90
+G�rtel 
+91
+13
+92
+1100 Wie
+93
+n
+94
+Arbeitgeberprofil ansehen
+95
+�hnliche Jobs
+96
+Test Automation Engineer (m/w/d)
+97
+bei Trodat 
+98
+Trotec 
+99
+in Marchtrenk
+100
+Test Automation Engineer C# (m/w/x)
+101
+bei 
+102
+DS AUTOMOTION GmbH in Linz
+103
+Software Test 
+104
+Automation Engineer 
+105
+Schwei�technik (m/w/d)
+106
+bei Fronius in Thalheim 
+107
+bei Wels
+108
+Software Test Engineer (m/w)
+109
+bei 
+110
+TODAY 
+111
+Experts GmbH in Wels
+112
+Software-Entwickler mit Fokus auf Testautomatisierung (m/w/d)
+113
+bei Fronius in Thalheim 
+114
+bei Wels
+115
+Software 
+116
+Entwickler f�r automatisierte Cloud-Tests (m/w/d)
+117
+bei Fronius in Thalheim 
+118
+bei Wels
+119
+Senior Test Engineer (w/m/d)
+120
+bei 
+121
+�sterreichische 
+122
+Post AG in �sterreich
+
+====================
+
+SoMaJo
+
+0
+Engineer
+Environmental
+Testing
+(
+m
+/
+w
+/
+d
+)
+1
+bei
+Computer
+Futures
+2
+Linz
+heute
+3
+Job
+empfehlen
+4
+Mit
+karriere.at
+bewerben
+5
+Engineer
+Environmental
+Testing
+(
+m
+/
+w
+/
+d
+)
+6
+f�r
+unseren
+Kunden
+suchen
+wir
+aktuell
+einen
+freiberuflichen
+Environmental
+Testing
+Engineer
+(
+m
+/
+w
+/
+d
+)
+7
+Start
+:
+Ab
+September
+8
+Ort
+:
+Gro�raum
+Linz
+&
+Remote
+9
+Auslastung
+:
+Vollzeit
+10
+Projektsprache
+:
+Deutsch
+(
+ab
+B2
+)
+&
+Englisch
+11
+Dauer
+:
+6
+Monate
+12
+Anforderungen
+&
+Aufgaben
+:
+13
+Abstimmung
+der
+Env
+.
+&
+Dur
+.
+14
+Testumf�nge
+/
+Teststrategie
+mit
+internen
+Abteilungen
+(
+eDS
+/
+DS
+)
+und
+externen
+(
+OEM
+)
+Kunden
+f�r
+Akquise-
+und
+Vor-
+und
+Serienentwicklungsprojekten
+15
+Support
+bei
+Requirement
+Analyse
+f�r
+Env
+.
+&
+Dur
+.
+16
+Umf�nge
+,
+Erstellung
+von
+Testspezifikationen
+und
+Spezifikation
+von
+Pr�fst�nden
+17
+Techn.
+Abstimmung
+mit
+Testlabors
+intern
+/
+extern
+,
+Terminplanung
+,
+Unterst�tzung
+bei
+der
+Testdurchf�hrung
+,
+Supplier
+Monitoring
+18
+Auswertung
+und
+Interpretation
+von
+Testergebnissen
+und
+Reporting
+im
+Projekt
+19
+Koordinieren
+und
+Managen
+von
+Fehleranalysen
+w�hrend
+der
+Testdurchf�hrung
+20
+Erarbeitung
+von
+Lastprofilen
+,
+Temperaturprofilen
+und
+Erprobungsstrategien
+21
+Planung
+und
+systematische
+Umsetzung
+der
+Projektziele
+der
+Gruppe
+in
+Hinblick
+auf
+Umfang
+,
+Termine
+,
+Ressourcen
+und
+Qualit�t
+(
+Serienentwicklungsprojekten
+/
+Akquisitionsprojekten
+/
+Plattformprojekten
+)
+22
+Wenn
+Sie
+sich
+angesprochen
+f�hlen
+,
+freue
+ich
+mich
+�ber
+eine
+E-Mail
+mit
+Ihrem
+aktuellen
+Lebenslauf
+(
+als
+Word-Datei
+und
+auf
+Deutsch
+)
+und
+der
+Vorstellung
+Ihres
+Stundensatzes
+an
+:
+23
+E-Mail
+:
+j.
+kuchenbaecker
+[
+at
+]
+computerfutures.at
+24
+Telefon
+:
++43
+1
+395071529
+25
+Gerne
+melde
+ich
+mich
+bei
+�bereinstimmung
+anschlie�end
+im
+Laufe
+der
+Woche
+telefonisch
+bei
+Ihnen
+.
+26
+Ich
+freue
+mich
+auf
+Ihre
+R�ckmeldung
+!
+27
+�ber
+Computer
+Futures
+28
+Computer
+Futures
+ist
+eine
+der
+weltweit
+f�hrenden
+Personalberatungen
+f�r
+IT
+&
+Tech
+und
+ist
+Teil
+der
+auf
+die
+MINT-Branche
+spezialisierten
+SThree
+PLC
+.
+29
+Wir
+vermitteln
+Fach-
+und
+F�hrungskr�fte
+in
+Festanstellung
+,
+Experten�berlassung
+sowie
+Freiberufler
+.
+30
+Unsere
+Personalberater
+agieren
+regional
+und
+verstehen
+so
+die
+lokalen
+Arbeitsmarkt-Trends
+.
+31
+Wir
+nehmen
+uns
+Zeit
+,
+um
+Ihre
+Bed�rfnisse
+kennenzulernen
+und
+stehen
+Ihnen
+w�hrend
+des
+gesamten
+Bewerbungsprozesses
+kompetent
+zur
+Seite
+.
+32
+Bewerben
+Sie
+sich
+jetzt
+auf
+eine
+unserer
+zahlreichen
+Stellen
+oder
+kontaktieren
+Sie
+uns
+unter
+https://www.computerfutures.com/de-de/kontakt/
+.
+33
+Weitere
+Informationen
+zu
+Computer
+Futures
+34
+computerfutures.com
+35
+Mit
+karriere.at
+bewerben
+36
+Kontakt
+37
+Computer
+Futures
+38
+Wiedner
+G�rtel
+13
+39
+1100
+Wien
+40
+Arbeitgeberprofil
+ansehen
+41
+�hnliche
+Jobs
+42
+Test
+Automation
+Engineer
+(
+m
+/
+w
+/
+d
+)
+43
+bei
+Trodat
+Trotec
+in
+Marchtrenk
+44
+Test
+Automation
+Engineer
+C#
+(
+m
+/
+w
+/
+x
+)
+45
+bei
+DS
+AUTOMOTION
+GmbH
+in
+Linz
+46
+Software
+Test
+Automation
+Engineer
+Schwei�technik
+(
+m
+/
+w
+/
+d
+)
+47
+bei
+Fronius
+in
+Thalheim
+bei
+Wels
+48
+Software
+Test
+Engineer
+(
+m
+/
+w
+)
+49
+bei
+TODAY
+Experts
+GmbH
+in
+Wels
+50
+Software-Entwickler
+mit
+Fokus
+auf
+Testautomatisierung
+(
+m
+/
+w
+/
+d
+)
+51
+bei
+Fronius
+in
+Thalheim
+bei
+Wels
+52
+Software
+Entwickler
+f�r
+automatisierte
+Cloud-Tests
+(
+m
+/
+w
+/
+d
+)
+53
+bei
+Fronius
+in
+Thalheim
+bei
+Wels
+54
+Senior
+Test
+Engineer
+(
+w
+/
+m
+/
+d
+)
+55
+bei
+�sterreichische
+Post
+AG
+in
+�sterreich
+
+==============================
+SoMaJo
+SentenceSplitterComparison.txt0
+Engineer
+Environmental
+Testing
+(
+m
+/
+w
+/
+d
+)
+1
+bei
+Computer
+Futures
+2
+Linz
+heute
+3
+Job
+empfehlen
+4
+Mit
+karriere.at
+bewerben
+5
+Engineer
+Environmental
+Testing
+(
+m
+/
+w
+/
+d
+)
+6
+f�r
+unseren
+Kunden
+suchen
+wir
+aktuell
+einen
+freiberuflichen
+Environmental
+Testing
+Engineer
+(
+m
+/
+w
+/
+d
+)
+7
+Start
+:
+Ab
+September
+8
+Ort
+:
+Gro�raum
+Linz
+&
+Remote
+9
+Auslastung
+:
+Vollzeit
+10
+Projektsprache
+:
+Deutsch
+(
+ab
+B2
+)
+&
+Englisch
+11
+Dauer
+:
+6
+Monate
+12
+Anforderungen
+&
+Aufgaben
+:
+13
+Abstimmung
+der
+Env
+.
+&
+Dur
+.
+14
+Testumf�nge
+/
+Teststrategie
+mit
+internen
+Abteilungen
+(
+eDS
+/
+DS
+)
+und
+externen
+(
+OEM
+)
+Kunden
+f�r
+Akquise-
+und
+Vor-
+und
+Serienentwicklungsprojekten
+15
+Support
+bei
+Requirement
+Analyse
+f�r
+Env
+.
+&
+Dur
+.
+16
+Umf�nge
+,
+Erstellung
+von
+Testspezifikationen
+und
+Spezifikation
+von
+Pr�fst�nden
+17
+Techn.
+Abstimmung
+mit
+Testlabors
+intern
+/
+extern
+,
+Terminplanung
+,
+Unterst�tzung
+bei
+der
+Testdurchf�hrung
+,
+Supplier
+Monitoring
+18
+Auswertung
+und
+Interpretation
+von
+Testergebnissen
+und
+Reporting
+im
+Projekt
+19
+Koordinieren
+und
+Managen
+von
+Fehleranalysen
+w�hrend
+der
+Testdurchf�hrung
+20
+Erarbeitung
+von
+Lastprofilen
+,
+Temperaturprofilen
+und
+Erprobungsstrategien
+21
+Planung
+und
+systematische
+Umsetzung
+der
+Projektziele
+der
+Gruppe
+in
+Hinblick
+auf
+Umfang
+,
+Termine
+,
+Ressourcen
+und
+Qualit�t
+(
+Serienentwicklungsprojekten
+/
+Akquisitionsprojekten
+/
+Plattformprojekten
+)
+22
+Wenn
+Sie
+sich
+angesprochen
+f�hlen
+,
+freue
+ich
+mich
+�ber
+eine
+E-Mail
+mit
+Ihrem
+aktuellen
+Lebenslauf
+(
+als
+Word-Datei
+und
+auf
+Deutsch
+)
+und
+der
+Vorstellung
+Ihres
+Stundensatzes
+an
+:
+23
+E-Mail
+:
+j.
+kuchenbaecker
+[
+at
+]
+computerfutures.at
+24
+Telefon
+:
++43
+1
+395071529
+25
+Gerne
+melde
+ich
+mich
+bei
+�bereinstimmung
+anschlie�end
+im
+Laufe
+der
+Woche
+telefonisch
+bei
+Ihnen
+.
+26
+Ich
+freue
+mich
+auf
+Ihre
+R�ckmeldung
+!
+27
+�ber
+Computer
+Futures
+28
+Computer
+Futures
+ist
+eine
+der
+weltweit
+f�hrenden
+Personalberatungen
+f�r
+IT
+&
+Tech
+und
+ist
+Teil
+der
+auf
+die
+MINT-Branche
+spezialisierten
+SThree
+PLC
+.
+29
+Wir
+vermitteln
+Fach-
+und
+F�hrungskr�fte
+in
+Festanstellung
+,
+Experten�berlassung
+sowie
+Freiberufler
+.
+30
+Unsere
+Personalberater
+agieren
+regional
+und
+verstehen
+so
+die
+lokalen
+Arbeitsmarkt-Trends
+.
+31
+Wir
+nehmen
+uns
+Zeit
+,
+um
+Ihre
+Bed�rfnisse
+kennenzulernen
+und
+stehen
+Ihnen
+w�hrend
+des
+gesamten
+Bewerbungsprozesses
+kompetent
+zur
+Seite
+.
+32
+Bewerben
+Sie
+sich
+jetzt
+auf
+eine
+unserer
+zahlreichen
+Stellen
+oder
+kontaktieren
+Sie
+uns
+unter
+https://www.computerfutures.com/de-de/kontakt/
+.
+33
+Weitere
+Informationen
+zu
+Computer
+Futures
+34
+computerfutures.com
+35
+Mit
+karriere.at
+bewerben
+36
+Kontakt
+37
+Computer
+Futures
+38
+Wiedner
+G�rtel
+13
+39
+1100
+Wien
+40
+Arbeitgeberprofil
+ansehen
+41
+�hnliche
+Jobs
+42
+Test
+Automation
+Engineer
+(
+m
+/
+w
+/
+d
+)
+43
+bei
+Trodat
+Trotec
+in
+Marchtrenk
+44
+Test
+Automation
+Engineer
+C#
+(
+m
+/
+w
+/
+x
+)
+45
+bei
+DS
+AUTOMOTION
+GmbH
+in
+Linz
+46
+Software
+Test
+Automation
+Engineer
+Schwei�technik
+(
+m
+/
+w
+/
+d
+)
+47
+bei
+Fronius
+in
+Thalheim
+bei
+Wels
+48
+Software
+Test
+Engineer
+(
+m
+/
+w
+)
+49
+bei
+TODAY
+Experts
+GmbH
+in
+Wels
+50
+Software-Entwickler
+mit
+Fokus
+auf
+Testautomatisierung
+(
+m
+/
+w
+/
+d
+)
+51
+bei
+Fronius
+in
+Thalheim
+bei
+Wels
+52
+Software
+Entwickler
+f�r
+automatisierte
+Cloud-Tests
+(
+m
+/
+w
+/
+d
+)
+53
+bei
+Fronius
+in
+Thalheim
+bei
+Wels
+54
+Senior
+Test
+Engineer
+(
+w
+/
+m
+/
+d
+)
+55
+bei
+�sterreichische
+Post
+AG
+in
+�sterreich
+
+==============================
+
+Spacy:
+0
+Engineer Environmental Testing (m/w/d)
+bei Computer Futures
+Linz heute
+Job empfehlen
+
+Engineer X pnc
+Environmental X pnc
+Testing X sb
+( PUNCT punct
+m X app
+/ X punct
+w X uc
+/ PUNCT punct
+d X cj
+) PUNCT punct
+
+ SPACE dep
+bei ADP mnr
+Computer NOUN nk
+Futures PROPN nk
+
+ SPACE dep
+Linz PROPN nk
+heute ADV mo
+
+ SPACE dep
+Job NOUN oa
+empfehlen VERB ROOT
+
+ SPACE dep
+----
+1
+
+Mit karriere.at bewerben
+
+Mit ADP mo
+karriere.at NOUN nk
+bewerben VERB ROOT
+
+ SPACE dep
+----
+2
+
+Engineer Environmental Testing (m/w/d)
+für unseren Kunden suchen wir aktuell einen freiberuflichen Environmental Testing Engineer (m/w/d)
+Start:
+Engineer X pnc
+Environmental X pnc
+Testing X oa
+( PUNCT punct
+m X app
+/ X punct
+w X uc
+/ PUNCT punct
+d X cj
+) PUNCT punct
+
+ SPACE dep
+für ADP mnr
+unseren DET nk
+Kunden NOUN nk
+suchen VERB ROOT
+wir PRON sb
+aktuell ADV mo
+einen DET nk
+freiberuflichen ADJ nk
+Environmental X pnc
+Testing X pnc
+Engineer X oa
+( PUNCT punct
+m X par
+/ X punct
+w X uc
+/ PUNCT punct
+d X cj
+) PUNCT punct
+
+ SPACE dep
+Start NOUN oa
+: PUNCT punct
+----
+3
+
+Ab September
+Ort: Großraum Linz & Remote
+Auslastung: Vollzeit
+Projektsprache:
+Ab ADP ROOT
+September NOUN nk
+
+ SPACE dep
+Ort NOUN nk
+: PUNCT punct
+Großraum NOUN nk
+Linz PROPN pnc
+& CCONJ cd
+Remote NOUN cj
+
+ SPACE dep
+Auslastung NOUN nk
+: PUNCT punct
+Vollzeit NOUN cj
+
+ SPACE dep
+Projektsprache NOUN nk
+: PUNCT punct
+----
+4
+
+Deutsch (ab B2) & Englisch
+Dauer: 6 Monate
+Anforderungen & Aufgaben:
+Abstimmung der Env.
+Deutsch NOUN sb
+( PUNCT punct
+ab ADP par
+B2 PROPN nk
+) PUNCT punct
+& CCONJ cd
+Englisch NOUN cj
+
+ SPACE dep
+Dauer NOUN ROOT
+: PUNCT punct
+6 NUM nk
+Monate NOUN app
+
+ SPACE dep
+Anforderungen NOUN nk
+& CCONJ cd
+Aufgaben NOUN cj
+: PUNCT punct
+
+ SPACE dep
+Abstimmung NOUN cj
+der DET nk
+Env PROPN ag
+. PUNCT punct
+----
+5
+
+& Dur.
+& CCONJ ROOT
+Dur NOUN cj
+. PUNCT punct
+----
+6
+
+Testumfänge/Teststrategie mit internen Abteilungen (eDS/DS) und externen (OEM) Kunden für Akquise- und Vor- und Serienentwicklungsprojekten
+
+Testumfänge NOUN ROOT
+/ PUNCT punct
+Teststrategie NOUN cj
+mit ADP mnr
+internen ADJ nk
+Abteilungen NOUN nk
+( PUNCT punct
+eDS PROPN app
+/ PUNCT punct
+DS PROPN cj
+) PUNCT punct
+und CCONJ cd
+externen ADJ nk
+( PUNCT punct
+OEM PROPN app
+) PUNCT punct
+Kunden NOUN cj
+für ADP mnr
+Akquise- X cj
+und CCONJ cd
+Vor- X cj
+und CCONJ cd
+Serienentwicklungsprojekten NOUN nk
+
+ SPACE dep
+----
+7
+
+Support bei Requirement Analyse für Env.
+Support NOUN ROOT
+bei ADP mnr
+Requirement PROPN nk
+Analyse NOUN nk
+für ADP mnr
+Env PROPN nk
+. PUNCT punct
+----
+8
+
+& Dur.
+& CCONJ ROOT
+Dur NOUN cj
+. PUNCT punct
+----
+9
+
+Umfänge, Erstellung von Testspezifikationen und Spezifikation von Prüfständen
+Techn.
+Umfänge NOUN ROOT
+, PUNCT punct
+Erstellung NOUN cj
+von ADP pg
+Testspezifikationen NOUN nk
+und CCONJ cd
+Spezifikation NOUN cj
+von ADP pg
+Prüfständen NOUN nk
+
+ SPACE dep
+Techn NOUN app
+. PUNCT punct
+----
+10
+
+Abstimmung mit Testlabors intern/extern, Terminplanung, Unterstützung bei der Testdurchführung, Supplier Monitoring
+Auswertung und Interpretation von Testergebnissen und Reporting im Projekt
+Koordinieren und Managen von Fehleranalysen während der Testdurchführung
+Erarbeitung von Lastprofilen, Temperaturprofilen und Erprobungsstrategien
+
+Abstimmung NOUN ROOT
+mit ADP mnr
+Testlabors PROPN nk
+intern ADV oc
+/ PUNCT punct
+extern VERB cj
+, PUNCT punct
+Terminplanung NOUN cj
+, PUNCT punct
+Unterstützung NOUN cj
+bei ADP mnr
+der DET nk
+Testdurchführung NOUN nk
+, PUNCT punct
+Supplier PROPN pnc
+Monitoring PROPN pnc
+
+ SPACE dep
+Auswertung NOUN cj
+und CCONJ cd
+Interpretation NOUN cj
+von ADP pg
+Testergebnissen NOUN nk
+und CCONJ cd
+Reporting NOUN cj
+im ADP mnr
+Projekt NOUN nk
+
+ SPACE dep
+Koordinieren NOUN nk
+und CCONJ cd
+Managen NOUN cj
+von ADP pg
+Fehleranalysen NOUN nk
+während ADP mnr
+der DET nk
+Testdurchführung NOUN nk
+
+ SPACE dep
+Erarbeitung NOUN nk
+von ADP pg
+Lastprofilen NOUN nk
+, PUNCT punct
+Temperaturprofilen NOUN cj
+und CCONJ cd
+Erprobungsstrategien NOUN cj
+
+ SPACE dep
+----
+11
+
+Planung und systematische Umsetzung der Projektziele der Gruppe in Hinblick auf Umfang, Termine, Ressourcen und Qualität (Serienentwicklungsprojekten / Akquisitionsprojekten / Plattformprojekten)
+
+Planung NOUN ROOT
+und CCONJ cd
+systematische ADJ nk
+Umsetzung NOUN cj
+der DET nk
+Projektziele NOUN ag
+der DET nk
+Gruppe NOUN ag
+in ADP mnr
+Hinblick NOUN nk
+auf ADP mnr
+Umfang NOUN nk
+, PUNCT punct
+Termine NOUN cj
+, PUNCT punct
+Ressourcen NOUN cj
+und CCONJ cd
+Qualität NOUN cj
+( PUNCT punct
+Serienentwicklungsprojekten NOUN par
+/ PUNCT punct
+Akquisitionsprojekten NOUN cj
+/ PUNCT punct
+Plattformprojekten NOUN cj
+) PUNCT punct
+
+ SPACE dep
+----
+12
+
+Wenn Sie sich angesprochen fühlen, freue ich mich über eine E-Mail mit Ihrem aktuellen Lebenslauf (als Word-Datei und auf Deutsch) und der Vorstellung Ihres Stundensatzes an:
+E-Mail: j.kuchenbaecker[at]computerfutures.at
+Telefon: +43 1 395071529
+Gerne melde ich mich bei Übereinstimmung anschließend im Laufe der Woche telefonisch bei Ihnen.
+
+Wenn SCONJ cp
+Sie PRON sb
+sich PRON oa
+angesprochen VERB oc
+fühlen VERB mo
+, PUNCT punct
+freue VERB oa
+ich PRON sb
+mich PRON oa
+über ADP op
+eine DET nk
+E-Mail NOUN nk
+mit ADP mnr
+Ihrem DET nk
+aktuellen ADJ nk
+Lebenslauf NOUN nk
+( PUNCT punct
+als ADP mnr
+Word-Datei NOUN nk
+und CCONJ cd
+auf ADP cj
+Deutsch NOUN nk
+) PUNCT punct
+und CCONJ cd
+der DET nk
+Vorstellung NOUN cj
+Ihres DET nk
+Stundensatzes NOUN ag
+an ADP svp
+: PUNCT punct
+
+ SPACE dep
+E-Mail NOUN app
+: PUNCT punct
+j.kuchenbaecker ADJ nk
+[ NOUN ag
+at PROPN pnc
+] PROPN pnc
+computerfutures.at PROPN nk
+
+ SPACE dep
+Telefon NOUN oa
+: PUNCT punct
++43 PROPN par
+1 NUM nk
+395071529 NUM nk
+
+ SPACE dep
+Gerne ADV mo
+melde VERB ROOT
+ich PRON sb
+mich PRON oa
+bei ADP mo
+Übereinstimmung NOUN nk
+anschließend ADV mo
+im ADP mo
+Laufe NOUN nk
+der DET nk
+Woche NOUN ag
+telefonisch ADV mo
+bei ADP mo
+Ihnen PRON nk
+. PUNCT punct
+
+ SPACE dep
+----
+13
+
+Ich freue mich auf Ihre Rückmeldung!
+
+Ich PRON sb
+freue VERB ROOT
+mich PRON oa
+auf ADP op
+Ihre DET nk
+Rückmeldung NOUN nk
+! PUNCT punct
+
+ SPACE dep
+----
+14
+
+Über Computer Futures
+Computer Futures ist eine der weltweit führenden Personalberatungen für IT & Tech und ist Teil der auf die MINT-Branche spezialisierten SThree PLC.
+Über ADP mo
+Computer NOUN nk
+Futures PROPN nk
+
+ SPACE dep
+Computer NOUN nk
+Futures PROPN nk
+ist AUX ROOT
+eine PRON sb
+der DET nk
+weltweit ADV mo
+führenden ADJ nk
+Personalberatungen NOUN ag
+für ADP mnr
+IT PROPN nk
+& CCONJ cd
+Tech X cj
+und CCONJ cd
+ist AUX cj
+Teil NOUN pd
+der DET nk
+auf ADP mo
+die DET nk
+MINT-Branche NOUN nk
+spezialisierten VERB nk
+SThree PROPN ag
+PLC PROPN nk
+. PUNCT punct
+----
+15
+
+Wir vermitteln Fach- und Führungskräfte in Festanstellung, Expertenüberlassung sowie Freiberufler.
+Wir PRON sb
+vermitteln VERB ROOT
+Fach- X cj
+und CCONJ cd
+Führungskräfte NOUN oa
+in ADP mnr
+Festanstellung NOUN nk
+, PUNCT punct
+Expertenüberlassung NOUN cj
+sowie CCONJ cd
+Freiberufler PROPN cj
+. PUNCT punct
+----
+16
+
+Unsere Personalberater agieren regional und verstehen so die lokalen Arbeitsmarkt-Trends.
+
+
+Unsere DET nk
+Personalberater NOUN sb
+agieren VERB ROOT
+regional ADV mo
+und CCONJ cd
+verstehen VERB cj
+so ADV mo
+die DET nk
+lokalen ADJ nk
+Arbeitsmarkt-Trends NOUN oa
+. PUNCT punct
+
+
+ SPACE dep
+----
+17
+
+Wir nehmen uns Zeit, um Ihre Bedürfnisse kennenzulernen und stehen Ihnen während des gesamten Bewerbungsprozesses kompetent zur Seite.
+Wir PRON sb
+nehmen VERB ROOT
+uns PRON da
+Zeit NOUN oa
+, PUNCT punct
+um SCONJ cp
+Ihre DET nk
+Bedürfnisse NOUN oa
+kennenzulernen VERB mo
+und CCONJ cd
+stehen VERB cj
+Ihnen PRON da
+während ADP mo
+des DET nk
+gesamten ADJ nk
+Bewerbungsprozesses NOUN nk
+kompetent NOUN mo
+zur ADP mo
+Seite NOUN nk
+. PUNCT punct
+----
+18
+
+Bewerben Sie sich jetzt auf eine unserer zahlreichen Stellen oder kontaktieren Sie uns unter https://www.computerfutures.com/de-de/kontakt/.
+Weitere Informationen zu Computer Futures
+computerfutures.com
+Mit karriere.at bewerben
+Kontakt
+Computer Futures
+Wiedner Gürtel 13
+1100 Wien
+Arbeitgeberprofil ansehen
+Ähnliche Jobs
+Test Automation Engineer (m/w/d)
+bei Trodat Trotec in Marchtrenk
+Test Automation Engineer C# (m/w/x)
+bei DS
+Bewerben ADV ROOT
+Sie PRON sb
+sich PRON oa
+jetzt ADV mo
+auf ADP op
+eine PRON nk
+unserer DET nk
+zahlreichen ADJ nk
+Stellen NOUN ag
+oder CCONJ cd
+kontaktieren VERB cj
+Sie PRON sb
+uns PRON oa
+unter ADP mo
+https://www.computerfutures.com/de-de/kontakt/. ADJ nk
+
+ SPACE dep
+Weitere ADJ nk
+Informationen NOUN nk
+zu ADP mnr
+Computer NOUN nk
+Futures PROPN nk
+
+ SPACE dep
+computerfutures.com PROPN nk
+
+ SPACE dep
+Mit ADP mo
+karriere.at NOUN nk
+bewerben VERB oc
+
+ SPACE dep
+Kontakt NOUN sb
+
+ SPACE dep
+Computer NOUN nk
+Futures PROPN nk
+
+ SPACE dep
+Wiedner ADJ nk
+Gürtel NOUN nk
+13 NUM nmc
+
+ SPACE dep
+1100 NUM nk
+Wien PROPN pnc
+
+ SPACE dep
+Arbeitgeberprofil PROPN sb
+ansehen VERB cj
+
+ SPACE dep
+Ähnliche ADJ nk
+Jobs NOUN ag
+
+ SPACE dep
+Test NOUN pnc
+Automation PROPN pnc
+Engineer PROPN sb
+( PUNCT punct
+m X par
+/ X punct
+w X cj
+/ PUNCT punct
+d X cj
+) PUNCT punct
+
+ SPACE dep
+bei ADP mo
+Trodat NOUN nk
+Trotec NOUN nk
+in ADP mnr
+Marchtrenk NOUN nk
+
+ SPACE dep
+Test NOUN pnc
+Automation PROPN pnc
+Engineer PROPN pnc
+C PROPN pnc
+# PROPN nk
+( PUNCT punct
+m X par
+/ PUNCT punct
+w X cj
+/ X punct
+x X cj
+) PUNCT punct
+
+ SPACE dep
+bei ADP mo
+DS PROPN nk
+----
+19
+
+AUTOMOTION
+AUTOMOTION PROPN ROOT
+----
+20
+
+GmbH in Linz
+Software Test Automation Engineer Schweißtechnik (m/w/d)
+bei Fronius in Thalheim bei Wels
+Software Test Engineer (m/w)
+bei TODAY
+GmbH NOUN ROOT
+in ADP mnr
+Linz PROPN pnc
+
+ SPACE dep
+Software NOUN nk
+Test PROPN pnc
+Automation NOUN pnc
+Engineer PROPN pnc
+Schweißtechnik NOUN nk
+( PUNCT punct
+m X par
+/ X punct
+w X nk
+/ PUNCT punct
+d X cj
+) PUNCT punct
+
+ SPACE dep
+bei ADP mnr
+Fronius PROPN nk
+in ADP mnr
+Thalheim PROPN nk
+bei ADP mnr
+Wels PROPN ag
+
+ SPACE dep
+Software NOUN nk
+Test PROPN pnc
+Engineer PROPN nk
+( PUNCT punct
+m X par
+/ X punct
+w X cj
+) PUNCT punct
+
+ SPACE dep
+bei ADP mnr
+TODAY PROPN nk
+----
+21
+
+Experts GmbH in Wels
+Software-Entwickler mit Fokus auf Testautomatisierung (m/w/d)
+bei Fronius in Thalheim bei Wels
+Software
+Experts ADV mo
+GmbH NOUN ROOT
+in ADP mnr
+Wels PROPN nk
+
+ SPACE dep
+Software-Entwickler NOUN cj
+mit ADP mnr
+Fokus NOUN nk
+auf ADP mnr
+Testautomatisierung NOUN nk
+( PUNCT punct
+m X par
+/ X punct
+w X uc
+/ PUNCT punct
+d X cj
+) PUNCT punct
+
+ SPACE dep
+bei ADP mnr
+Fronius PROPN nk
+in ADP mnr
+Thalheim PROPN nk
+bei ADP mnr
+Wels PROPN ag
+
+ SPACE dep
+Software NOUN nk
+----
+22
+
+Entwickler für automatisierte Cloud-Tests (m/w/d)
+bei Fronius in Thalheim bei Wels
+Senior Test Engineer (w/m/d)
+bei Österreichische Post AG in Österreich
+
+
+Entwickler NOUN ROOT
+für ADP mnr
+automatisierte ADJ nk
+Cloud-Tests NOUN nk
+( PUNCT punct
+m X par
+/ X punct
+w X uc
+/ PUNCT punct
+d X cj
+) PUNCT punct
+
+ SPACE dep
+bei ADP mnr
+Fronius PROPN nk
+in ADP mnr
+Thalheim PROPN nk
+bei ADP mnr
+Wels PROPN ag
+
+ SPACE dep
+Senior NOUN nk
+Test PROPN pnc
+Engineer PROPN nk
+( PUNCT punct
+w X par
+/ X punct
+m X uc
+/ PUNCT punct
+d X cj
+) PUNCT punct
+
+ SPACE dep
+bei ADP mo
+Österreichische ADJ nk
+Post NOUN nk
+AG NOUN nk
+in ADP mnr
+Österreich PROPN nk
+
+
+ SPACE dep
+
+=============================
+
+nltk Sentence Tokenizer
+
+0
+
+Engineer Environmental Testing (m/w/d)
+bei Computer Futures
+Linz heute
+Job empfehlen
+Mit karriere.at bewerben
+Engineer Environmental Testing (m/w/d)
+für unseren Kunden suchen wir aktuell einen freiberuflichen Environmental Testing Engineer (m/w/d)
+Start: Ab September
+Ort: Großraum Linz & Remote
+Auslastung: Vollzeit
+Projektsprache: Deutsch (ab B2) & Englisch
+Dauer: 6 Monate
+Anforderungen & Aufgaben:
+Abstimmung der Env.& Dur.
+
+1
+
+Testumfänge/Teststrategie mit internen Abteilungen (eDS/DS) und externen (OEM) Kunden für Akquise- und Vor- und Serienentwicklungsprojekten
+Support bei Requirement Analyse für Env.
+
+2
+
+& Dur.
+
+3
+
+Umfänge, Erstellung von Testspezifikationen und Spezifikation von Prüfständen
+Techn.
+
+4
+
+Abstimmung mit Testlabors intern/extern, Terminplanung, Unterstützung bei der Testdurchführung, Supplier Monitoring
+Auswertung und Interpretation von Testergebnissen und Reporting im Projekt
+Koordinieren und Managen von Fehleranalysen während der Testdurchführung
+Erarbeitung von Lastprofilen, Temperaturprofilen und Erprobungsstrategien
+Planung und systematische Umsetzung der Projektziele der Gruppe in Hinblick auf Umfang, Termine, Ressourcen und Qualität (Serienentwicklungsprojekten / Akquisitionsprojekten / Plattformprojekten)
+Wenn Sie sich angesprochen fühlen, freue ich mich über eine E-Mail mit Ihrem aktuellen Lebenslauf (als Word-Datei und auf Deutsch) und der Vorstellung Ihres Stundensatzes an:
+E-Mail: j.kuchenbaecker[at]computerfutures.at
+Telefon: +43 1 395071529
+Gerne melde ich mich bei Übereinstimmung anschließend im Laufe der Woche telefonisch bei Ihnen.
+
+5
+
+Ich freue mich auf Ihre Rückmeldung!
+
+6
+
+Über Computer Futures
+Computer Futures ist eine der weltweit führenden Personalberatungen für IT & Tech und ist Teil der auf die MINT-Branche spezialisierten SThree PLC.
+
+7
+
+Wir vermitteln Fach- und Führungskräfte in Festanstellung, Expertenüberlassung sowie Freiberufler.
+
+8
+
+Unsere Personalberater agieren regional und verstehen so die lokalen Arbeitsmarkt-Trends.
+
+9
+
+Wir nehmen uns Zeit, um Ihre Bedürfnisse kennenzulernen und stehen Ihnen während des gesamten Bewerbungsprozesses kompetent zur Seite.
+
+10
+
+Bewerben Sie sich jetzt auf eine unserer zahlreichen Stellen oder kontaktieren Sie uns unter https://www.computerfutures.com/de-de/kontakt/.
+
+11
+
+Weitere Informationen zu Computer Futures
+computerfutures.com
+Mit karriere.at bewerben
+Kontakt
+Computer Futures
+Wiedner Gürtel 13
+1100 Wien
+Arbeitgeberprofil ansehen
+Ähnliche Jobs
+Test Automation Engineer (m/w/d)
+bei Trodat Trotec in Marchtrenk
+Test Automation Engineer C# (m/w/x)
+bei DS AUTOMOTION GmbH in Linz
+Software Test Automation Engineer Schweißtechnik (m/w/d)
+bei Fronius in Thalheim bei Wels
+Software Test Engineer (m/w)
+bei TODAY Experts GmbH in Wels
+Software-Entwickler mit Fokus auf Testautomatisierung (m/w/d)
+bei Fronius in Thalheim bei Wels
+Software Entwickler für automatisierte Cloud-Tests (m/w/d)
+bei Fronius in Thalheim bei Wels
+Senior Test Engineer (w/m/d)
+bei Österreichische Post AG in Österreich
+
+==============================
