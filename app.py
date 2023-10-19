@@ -3,16 +3,16 @@ from operator import itemgetter
 from typing import Dict, List
 
 from dash import Dash, html, dcc, callback, Output, Input, State
-import dash-bootstrap-components as dbc
+import dash_bootstrap_components as dbc
 import plotly.express as px
 import numpy as np
 # import pandas as pd
 
 import Levenshtein
 
-MIN_LEVEN_SIM_SCORE = .6
+MIN_LEVEN_SIM_SCORE = 0.75
 
-with gzip.open("searchModel.pickle.gz", "rb") as zf:
+with gzip.open("searchModel_2.pickle.gz", "rb") as zf:
     model = pickle.load(zf)
     SELECTED_ESCO_SPANS: List[str] = model["spans"]
     COMPARE_SCORE = model["scores"]
@@ -28,7 +28,7 @@ app = Dash(
 app._favicon = None
 
 app.layout = html.Div([
-    html.H1(children='Title of Dash App', style={'textAlign':'center'}),
+    html.H1(children='Related Skills', style={'textAlign':'center'}),
     # dcc.Dropdown(df.country.unique(), 'Canada', id='dropdown-selection'),
     # dcc.Graph(id='graph-content')
 ])
@@ -37,7 +37,7 @@ app.layout = dbc.Container(
     [
         dbc.Row(dbc.Col(
             [
-                html.H1(children='Title of App', style={'textAlign':'center'}),
+                html.H1(children='Related Skills', style={'textAlign':'center'}),
             ]
         )),
         dbc.Row(
