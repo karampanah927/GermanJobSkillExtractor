@@ -22,7 +22,7 @@ The overview of the pipeline of this project work:
 ![image](https://github.com/karampanah927/GermanJobSkillExtractor/assets/94730928/79100010-863b-4fa4-9921-fe319f74113e)
 
 
-##################################################
+
 
 The list of the file in the Repository:
 
