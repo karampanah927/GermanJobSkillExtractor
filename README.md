@@ -21,37 +21,57 @@ The overview of the pipeline of this project work:
 
 ![image](https://github.com/karampanah927/GermanJobSkillExtractor/assets/94730928/79100010-863b-4fa4-9921-fe319f74113e)
 
-The list of the files:
 
-Files in the Repository:
+##################################################
+The list of the file in the Repository:
 
 Pipeline Steps:
+
 Sentence Boundary Detection: 01-sentence-boundary-detection-Somaj.py
+
 Training Data Preprocessing: 02-TrainDataPreprocess.ipynb
+
 Fine-Tuning the JobGBERT Model: 03-FineTuneJobGBERT.ipynb
+
 Evaluation: 04_eval.ipynb
+
 Scoring Metrics (Threshold at 0.8): 05-ScoringMetrics-thr0.8.ipynb
+
 Scoring Metrics (Threshold at 0.75): 05-scoringMetrics-thr0.75.ipynb
 
-
+##################################################
 Exploratory Approaches:
+
 Sentence Boundary Detection Alternatives:
+
 Comparison_sentence_splitter_test.py
+
 sentence-boundary-detection-Somaj.py
+
 wtp-sentence-boundary-detection.py
+
 Embedding Approach: OpenAIEmbedding2.py
 
-
+##################################################
 Miscellaneous:
+
 Core Algorithm: Algorithm
+
 Web Application: app.py
+
 ESCO Skills (German): esco_skills_de.txt
+
 Metric Calculation: metric_caculation.py
+
 Sequence Evaluation: my_seqeval.py
+
 HTML Preprocessing: preprocess-html-remover.py
+
 Requirements for Installation: requirements.txt
 
-
+##################################################
 Steps To start the dashboard:
+
 pip install -r requirements.txt to install the dependencies
+
 python app.py to run the dashboard
