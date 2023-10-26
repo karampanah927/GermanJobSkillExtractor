@@ -23,6 +23,7 @@ The overview of the pipeline of this project work:
 
 
 ##################################################
+
 The list of the file in the Repository:
 
 Pipeline Steps:
@@ -40,6 +41,7 @@ Scoring Metrics (Threshold at 0.8): 05-ScoringMetrics-thr0.8.ipynb
 Scoring Metrics (Threshold at 0.75): 05-scoringMetrics-thr0.75.ipynb
 
 ##################################################
+
 Exploratory Approaches:
 
 Sentence Boundary Detection Alternatives:
@@ -53,6 +55,7 @@ wtp-sentence-boundary-detection.py
 Embedding Approach: OpenAIEmbedding2.py
 
 ##################################################
+
 Miscellaneous:
 
 Core Algorithm: Algorithm
@@ -70,6 +73,7 @@ HTML Preprocessing: preprocess-html-remover.py
 Requirements for Installation: requirements.txt
 
 ##################################################
+
 Steps To start the dashboard:
 
 pip install -r requirements.txt to install the dependencies
