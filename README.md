@@ -27,55 +27,55 @@ The overview of the pipeline of this project work:
 The list of the file in the Repository:
 
 Pipeline Steps:
+--------------------------------------------------
+**Sentence Boundary Detection:** 01-sentence-boundary-detection-Somaj.py
 
-Sentence Boundary Detection: 01-sentence-boundary-detection-Somaj.py
+**Training Data Preprocessing:** 02-TrainDataPreprocess.ipynb
 
-Training Data Preprocessing: 02-TrainDataPreprocess.ipynb
+**Fine-Tuning the JobGBERT Model:** 03-FineTuneJobGBERT.ipynb
 
-Fine-Tuning the JobGBERT Model: 03-FineTuneJobGBERT.ipynb
+**Evaluation:** 04_eval.ipynb
 
-Evaluation: 04_eval.ipynb
+**Scoring Metrics (Threshold at 0.8):** 05-ScoringMetrics-thr0.8.ipynb
 
-Scoring Metrics (Threshold at 0.8): 05-ScoringMetrics-thr0.8.ipynb
+**Scoring Metrics (Threshold at 0.75):** 05-scoringMetrics-thr0.75.ipynb
 
-Scoring Metrics (Threshold at 0.75): 05-scoringMetrics-thr0.75.ipynb
-
-##################################################
+--------------------------------------------------
 
 Exploratory Approaches:
+--------------------------------------------------
+**Sentence Boundary Detection Alternatives:**
 
-Sentence Boundary Detection Alternatives:
+- Comparison_sentence_splitter_test.py
 
-Comparison_sentence_splitter_test.py
+- sentence-boundary-detection-Somaj.py
 
-sentence-boundary-detection-Somaj.py
+- wtp-sentence-boundary-detection.py
 
-wtp-sentence-boundary-detection.py
+**Embedding Approach:** OpenAIEmbedding2.py
 
-Embedding Approach: OpenAIEmbedding2.py
-
-##################################################
+--------------------------------------------------
 
 Miscellaneous:
+--------------------------------------------------
+**Core Algorithm:** Algorithm
 
-Core Algorithm: Algorithm
+**Web Application:** app.py
 
-Web Application: app.py
+**ESCO Skills (German):** esco_skills_de.txt
 
-ESCO Skills (German): esco_skills_de.txt
+**Metric Calculation:** metric_caculation.py
 
-Metric Calculation: metric_caculation.py
+**Sequence Evaluation:** my_seqeval.py
 
-Sequence Evaluation: my_seqeval.py
+**HTML Preprocessing:** preprocess-html-remover.py
 
-HTML Preprocessing: preprocess-html-remover.py
+**Requirements for Installation:** requirements.txt
 
-Requirements for Installation: requirements.txt
+--------------------------------------------------
 
-##################################################
-
-Steps To start the dashboard:
-
+Steps To Start the Dashboard:
+--------------------------------------------------
 pip install -r requirements.txt to install the dependencies
 
 python app.py to run the dashboard
